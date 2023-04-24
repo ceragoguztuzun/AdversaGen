@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<row>
+		<name>John Smith</name>
+		<disease>Cystic Fibrosis</disease>
+		<phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections</phenotype>
+		<phenotype>digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages</phenotype>
+		<phenotype>sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration</phenotype>
+		<phenotype>infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus</phenotype>
+		<phenotype>other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+	</row>
+	<row>
+		<name>Peter Adams</name>
+		<disease>Alzheimer's Disease</disease>
+		<phenotype>memory loss, especially recent events</phenotype>
+		<phenotype>difficulty with language and communication</phenotype>
+		<phenotype>impaired reasoning and decision making</phenotype>
+		<phenotype>difficulty with complex tasks and problem-solving</phenotype>
+		<phenotype>changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation</phenotype>
+		<phenotype>difficulty with spatial orientation and getting lost in familiar places</phenotype>
+		<phenotype>loss of motivation and initiative</phenotype>
+		<phenotype>disorientation in time and place</phenotype>
+		<phenotype>poor judgment and decision-making abilities</phenotype>
+		<phenotype>difficulty with recognizing faces and objects</phenotype>
+		<phenotype>decline in cognitive abilities, including attention, concentration and learning</phenotype>
+	</row>
+	<row>
+		<name>Henry Caville</name>
+		<disease>Parkinson's disease</disease>
+		<phenotype>tremors (trembling in hands, arms, legs, jaw, or head)</phenotype>
+		<phenotype>rigidity (stiffness of limbs and trunk</phenotype>
+		<phenotype>bradykinesia (slowness of movement)</phenotype>
+		<phenotype>postural instability (balance problems and falls)</phenotype>
+		<phenotype>gait disturbances (shuffling or dragging feet)</phenotype>
+		<phenotype>micrographia (small handwriting)</phenotype>
+		<phenotype>loss of smell (anosmia)</phenotype>
+		<phenotype>sleep disturbances (insomnia, restless leg syndrome)</phenotype>
+		<phenotype>depression and anxiety</phenotype>
+		<phenotype>constipation</phenotype>
+		<phenotype>cognitive impairment (dementia, confusion, memory loss)</phenotype>
+		<phenotype>dysphagia (difficulty swallowing)</phenotype>
+	</row>
+	<row>
+		<name>Robert Pattinson</name>
+		<disease>Hemochromatosis</disease>
+		<phenotype>iron overload (excess iron in the blood and tissues)</phenotype>
+		<phenotype>liver disease (cirrhosis, hepatocellular carcinoma)</phenotype>
+		<phenotype>diabetes mellitus (type 2)</phenotype>
+		<phenotype>skin pigmentation (bronze or gray)</phenotype>
+		<phenotype>joint pain (arthritis)</phenotype>
+		<phenotype>fatigue and weakness</phenotype>
+		<phenotype>loss of sex drive (hypogonadism)</phenotype>
+		<phenotype>heart disease (arrhythmias, cardiomyopathy)</phenotype>
+		<phenotype>thyroid dysfunction (hypothyroidism)</phenotype>
+		<phenotype>pancreatic dysfunction (pancreatitis)</phenotype>
+		<phenotype>impotence (erectile dysfunction) in men</phenotype>
+		<phenotype>abdominal pain and swelling (due to liver or spleen enlargement)</phenotype>
+	</row>
+	<row>
+		<name>Timothee Chalamet</name>
+		<disease>Huntington's disease</disease>
+		<phenotype>movement disorders (involuntary jerking or writhing movements)</phenotype>
+		<phenotype>cognitive impairment (dementia, difficulty concentrating, forgetfulness)</phenotype>
+		<phenotype>emotional disturbances (depression, anxiety, irritability, mood swings)</phenotype>
+		<phenotype>sleep disorders (insomnia, sleep apnea)</phenotype>
+		<phenotype>difficulty with speech and swallowing</phenotype>
+		<phenotype>weight loss and malnutrition (due to difficulty eating)</phenotype>
+		<phenotype>muscle rigidity and stiffness</phenotype>
+		<phenotype>fatigue and weakness</phenotype>
+		<phenotype>impaired fine motor control (difficulty with activities such as writing or buttoning a shirt)</phenotype>
+		<phenotype>impaired executive function (planning, decision making, problem solving)</phenotype>
+		<phenotype>social withdrawal and apathy</phenotype>
+	</row>	
+</data>

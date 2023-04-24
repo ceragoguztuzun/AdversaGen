@@ -1,0 +1,1293 @@
+C:\Python39\python.exe C:/Users/Adi/Desktop/adversaGen/main.py 
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  answer in single word bullet points.
+- movement disorders: rs1801968, rs6265, rs1801133
+- cognitive impairment: rs7412, rs429358, rs2075650
+- emotional disturbances: rs4680, rs7997012, rs16965628
+- sleep disorders: rs10830963, rs1421894, rs12454676
+- difficulty with speech and swallowing: rs10166942, rs1801166, rs9936833
+- weight loss and malnutrition: rs9939609, rs17782313, rs5082
+- muscle rigidity and stiffness: rs1042522, rs3813929, rs1800795
+- fatigue and weakness: rs2060793, rs1800468, rs2148072
+- impaired fine motor control: rs6265, rs1801133, rs165599
+- impaired executive function: rs11136000, rs429358, rs7412
+- social withdrawal and apathy: rs4680, rs53576, rs1006737
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs6265, rs1801133, rs7412, rs429358, rs2075650, rs4680, rs7997012, rs16965628, rs10830963, rs1421894, rs12454676, rs10166942, rs1801166, rs9936833, rs9939609, rs17782313, rs5082, rs1042522, rs3813929, rs1800795, rs2060793, rs1800468, rs2148072, rs6265, rs1801133, rs165599, rs11136000, rs429358, rs7412, rs4680, rs53576, rs1006737,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. based on the presence of rs6265, rs1801133, and rs165599, what genetic diseases are commonly associated with impaired fine motor control, muscle rigidity and stiffness, and cognitive impairment?
+2. what genetic diseases are commonly associated with the presence of rs10830963, rs1421894, and rs12454676, which are linked to sleep disorders?
+3. what genetic diseases are commonly associated with the presence of rs7412, rs429358, and rs2075650, which are linked to cognitive impairment and impaired executive function?
+4. based on the presence of rs4680, rs7997012, and rs16965628, which are associated with emotional disturbances, what genetic diseases should be considered in this person's diagnosis?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs6265, rs1801133, rs7412, rs429358, rs2075650, rs4680, rs7997012, rs16965628, rs10830963, rs1421894, rs12454676, rs10166942, rs1801166, rs9936833, rs9939609, rs17782313, rs5082, rs1042522, rs3813929, rs1800795, rs2060793, rs1800468, rs2148072, rs6265, rs1801133, rs165599, rs11136000, rs429358, rs7412, rs4680, rs53576, rs1006737,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+i apologize for the earlier repetition. here are four new queries:
+
+1. based on the presence of rs1801968, rs10166942, and rs17782313, which are associated with weight loss and malnutrition, what genetic diseases should be considered in this person's diagnosis?
+2. what genetic diseases are commonly associated with the presence of rs53576, rs1042522, and rs5082, which are linked to emotional disturbances such as depression, anxiety, and irritability?
+3. what genetic diseases are commonly associated with the presence of rs9936833, rs9939609, and rs2060793, which are linked to movement disorders and impaired fine motor control?
+4. based on the presence of rs6265, rs429358, and rs7412, which are linked to cognitive impairment and impaired executive function, what genetic diseases should be considered in this person's diagnosis?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs6265, rs1801133, rs7412, rs429358, rs2075650, rs4680, rs7997012, rs16965628, rs10830963, rs1421894, rs12454676, rs10166942, rs1801166, rs9936833, rs9939609, rs17782313, rs5082, rs1042522, rs3813929, rs1800795, rs2060793, rs1800468, rs2148072, rs6265, rs1801133, rs165599, rs11136000, rs429358, rs7412, rs4680, rs53576, rs1006737,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+as an ai language model, i cannot diagnose diseases or provide medical advice. however, i can suggest some potential genetic diseases that may exhibit some of the symptoms and snps you provided. it's important to note that a proper diagnosis requires a comprehensive medical evaluation by a licensed healthcare professional.
+
+based on the information provided, here are four queries that could help identify potential genetic diseases:
+
+- which genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy?
+- what genetic diseases have been linked to the snps rs1801968, rs6265, rs1801133, rs7412, rs429358, rs2075650, rs4680, rs7997012, rs16965628, rs10830963, rs1421894, rs12454676, rs10166942, rs1801166, rs9936833, rs9939609, rs17782313, rs5082, rs1042522, rs3813929, rs1800795, rs2060793, rs1800468, rs2148072, rs6265, rs1801133, rs165599, rs11136000, rs429358, rs7412, rs4680, rs53576, and rs1006737?
+- which genetic diseases present with both movement disorders and cognitive impairment?
+- what genetic diseases exhibit symptoms such as muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, and impaired executive function?
+Q:  which genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy?
+ Please answer in bullet points with one or more disease names only.
+A: based on the given phenotypes and snps, some possible genetic diseases that may be associated with these symptoms include:
+
+- huntington's disease
+- parkinson's disease
+- alzheimer's disease
+- lewy body dementia
+- multiple system atrophy
+- machado-joseph disease
+- spinocerebellar ataxia
+- amyotrophic lateral sclerosis (als)
+- friedreich's ataxia
+- charcot-marie-tooth disease
+- frontotemporal dementia
+- prion diseases (e.g. creutzfeldt-jakob disease)
+- neuroacanthocytosis syndromes (e.g. chorea-acanthocytosis)
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' machado', 'joseph disease\n', ' spinocerebellar ataxia\n', ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' charcot', 'marie', 'tooth disease\n', ' frontotemporal dementia\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', ' neuroacanthocytosis syndromes (e.g. chorea', 'acanthocytosis)']]
+Q:  what genetic diseases have been linked to the snps rs1801968, rs6265, rs1801133, rs7412, rs429358, rs2075650, rs4680, rs7997012, rs16965628, rs10830963, rs1421894, rs12454676, rs10166942, rs1801166, rs9936833, rs9939609, rs17782313, rs5082, rs1042522, rs3813929, rs1800795, rs2060793, rs1800468, rs2148072, rs6265, rs1801133, rs165599, rs11136000, rs429358, rs7412, rs4680, rs53576, and rs1006737?
+ Please answer in bullet points with one or more disease names only.
+A: - rs1801968: alzheimer's disease, parkinson's disease
+- rs6265: alzheimer's disease, bipolar disorder, depression, schizophrenia
+- rs1801133: alzheimer's disease, parkinson's disease
+- rs7412: alzheimer's disease
+- rs429358: alzheimer's disease
+- rs2075650: parkinson's disease
+- rs4680: parkinson's disease
+- rs7997012: schizophrenia
+- rs16965628: parkinson's disease
+- rs10830963: parkinson's disease
+- rs1421894: parkinson's disease
+- rs12454676: parkinson's disease
+- rs10166942: parkinson's disease
+- rs1801166: schizophrenia
+- rs9936833: bipolar disorder, schizophrenia
+- rs9939609: obesity, type 2 diabetes
+- rs17782313: parkinson's disease
+- rs5082: parkinson's disease
+- rs1042522: alzheimer's disease, parkinson's disease
+- rs3813929: parkinson's disease
+- rs1800795: schizophrenia
+- rs2060793: alzheimer's disease, parkinson's disease
+- rs1800468: alzheimer's disease, parkinson's disease
+- rs2148072: alzheimer's disease, parkinson's disease
+- rs165599: parkinson's disease
+- rs11136000: parkinson's disease
+- rs53576: social behavior disorders
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' machado', 'joseph disease\n', ' spinocerebellar ataxia\n', ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' charcot', 'marie', 'tooth disease\n', ' frontotemporal dementia\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', ' neuroacanthocytosis syndromes (e.g. chorea', 'acanthocytosis)'], [" rs1801968: alzheimer's disease, parkinson's disease\n", " rs6265: alzheimer's disease, bipolar disorder, depression, schizophrenia\n", " rs1801133: alzheimer's disease, parkinson's disease\n", " rs7412: alzheimer's disease\n", " rs429358: alzheimer's disease\n", " rs2075650: parkinson's disease\n", " rs4680: parkinson's disease\n", ' rs7997012: schizophrenia\n', " rs16965628: parkinson's disease\n", " rs10830963: parkinson's disease\n", " rs1421894: parkinson's disease\n", " rs12454676: parkinson's disease\n", " rs10166942: parkinson's disease\n", ' rs1801166: schizophrenia\n', ' rs9936833: bipolar disorder, schizophrenia\n', ' rs9939609: obesity, type 2 diabetes\n', " rs17782313: parkinson's disease\n", " rs5082: parkinson's disease\n", " rs1042522: alzheimer's disease, parkinson's disease\n", " rs3813929: parkinson's disease\n", ' rs1800795: schizophrenia\n', " rs2060793: alzheimer's disease, parkinson's disease\n", " rs1800468: alzheimer's disease, parkinson's disease\n", " rs2148072: alzheimer's disease, parkinson's disease\n", " rs165599: parkinson's disease\n", " rs11136000: parkinson's disease\n", ' rs53576: social behavior disorders']]
+Q:  which genetic diseases present with both movement disorders and cognitive impairment?
+ Please answer in bullet points with one or more disease names only.
+A: here are some genetic diseases that are known to present with both movement disorders and cognitive impairment:
+
+- huntington's disease
+- parkinson's disease with dementia (pdd)
+- lewy body dementia
+- multiple system atrophy (msa)
+- niemann-pick disease type c
+- wilson disease
+- creutzfeldt-jakob disease (cjd)
+- neuroacanthocytosis syndrome
+- ataxia telangiectasia
+- batten disease
+- gaucher disease type 3
+
+please note that this is not an exhaustive list and other genetic diseases may also present with both movement disorders and cognitive impairment.
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' machado', 'joseph disease\n', ' spinocerebellar ataxia\n', ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' charcot', 'marie', 'tooth disease\n', ' frontotemporal dementia\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', ' neuroacanthocytosis syndromes (e.g. chorea', 'acanthocytosis)'], [" rs1801968: alzheimer's disease, parkinson's disease\n", " rs6265: alzheimer's disease, bipolar disorder, depression, schizophrenia\n", " rs1801133: alzheimer's disease, parkinson's disease\n", " rs7412: alzheimer's disease\n", " rs429358: alzheimer's disease\n", " rs2075650: parkinson's disease\n", " rs4680: parkinson's disease\n", ' rs7997012: schizophrenia\n', " rs16965628: parkinson's disease\n", " rs10830963: parkinson's disease\n", " rs1421894: parkinson's disease\n", " rs12454676: parkinson's disease\n", " rs10166942: parkinson's disease\n", ' rs1801166: schizophrenia\n', ' rs9936833: bipolar disorder, schizophrenia\n', ' rs9939609: obesity, type 2 diabetes\n', " rs17782313: parkinson's disease\n", " rs5082: parkinson's disease\n", " rs1042522: alzheimer's disease, parkinson's disease\n", " rs3813929: parkinson's disease\n", ' rs1800795: schizophrenia\n', " rs2060793: alzheimer's disease, parkinson's disease\n", " rs1800468: alzheimer's disease, parkinson's disease\n", " rs2148072: alzheimer's disease, parkinson's disease\n", " rs165599: parkinson's disease\n", " rs11136000: parkinson's disease\n", ' rs53576: social behavior disorders'], [" huntington's disease\n", " parkinson's disease with dementia (pdd)\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' niemann', 'pick disease type c\n', ' wilson disease\n', ' creutzfeldt', 'jakob disease (cjd)\n', ' neuroacanthocytosis syndrome\n', ' ataxia telangiectasia\n', ' batten disease\n', ' gaucher disease type 3\n\nplease note that this is not an exhaustive list and other genetic diseases may also present with both movement disorders and cognitive impairment.']]
+Q:  what genetic diseases exhibit symptoms such as muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, and impaired executive function? Please answer in bullet points with one or more disease names only.
+A: here are some genetic diseases that exhibit the mentioned symptoms:
+
+- parkinson's disease
+- huntington's disease
+- amyotrophic lateral sclerosis (als)
+- friedreich's ataxia
+- spinocerebellar ataxia
+- multiple sclerosis (ms)
+- charcot-marie-tooth disease
+- myotonic dystrophy
+- leigh syndrome
+- mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (melas)
+- hereditary spastic paraplegia (hsp)
+- ataxia-telangiectasia (a-t) syndrome
+- niemann-pick disease type c
+
+please note that this is not an exhaustive list and there could be other genetic diseases that present with these symptoms as well.
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' machado', 'joseph disease\n', ' spinocerebellar ataxia\n', ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' charcot', 'marie', 'tooth disease\n', ' frontotemporal dementia\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', ' neuroacanthocytosis syndromes (e.g. chorea', 'acanthocytosis)'], [" rs1801968: alzheimer's disease, parkinson's disease\n", " rs6265: alzheimer's disease, bipolar disorder, depression, schizophrenia\n", " rs1801133: alzheimer's disease, parkinson's disease\n", " rs7412: alzheimer's disease\n", " rs429358: alzheimer's disease\n", " rs2075650: parkinson's disease\n", " rs4680: parkinson's disease\n", ' rs7997012: schizophrenia\n', " rs16965628: parkinson's disease\n", " rs10830963: parkinson's disease\n", " rs1421894: parkinson's disease\n", " rs12454676: parkinson's disease\n", " rs10166942: parkinson's disease\n", ' rs1801166: schizophrenia\n', ' rs9936833: bipolar disorder, schizophrenia\n', ' rs9939609: obesity, type 2 diabetes\n', " rs17782313: parkinson's disease\n", " rs5082: parkinson's disease\n", " rs1042522: alzheimer's disease, parkinson's disease\n", " rs3813929: parkinson's disease\n", ' rs1800795: schizophrenia\n', " rs2060793: alzheimer's disease, parkinson's disease\n", " rs1800468: alzheimer's disease, parkinson's disease\n", " rs2148072: alzheimer's disease, parkinson's disease\n", " rs165599: parkinson's disease\n", " rs11136000: parkinson's disease\n", ' rs53576: social behavior disorders'], [" huntington's disease\n", " parkinson's disease with dementia (pdd)\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' niemann', 'pick disease type c\n', ' wilson disease\n', ' creutzfeldt', 'jakob disease (cjd)\n', ' neuroacanthocytosis syndrome\n', ' ataxia telangiectasia\n', ' batten disease\n', ' gaucher disease type 3\n\nplease note that this is not an exhaustive list and other genetic diseases may also present with both movement disorders and cognitive impairment.'], [" parkinson's disease\n", " huntington's disease\n", ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' spinocerebellar ataxia\n', ' multiple sclerosis (ms)\n', ' charcot', 'marie', 'tooth disease\n', ' myotonic dystrophy\n', ' leigh syndrome\n', ' mitochondrial encephalomyopathy, lactic acidosis, and stroke', 'like episodes (melas)\n', ' hereditary spastic paraplegia (hsp)\n', ' ataxia', 'telangiectasia (a', 't) syndrome\n', ' niemann', 'pick disease type c\n\nplease note that this is not an exhaustive list and there could be other genetic diseases that present with these symptoms as well.']]
+[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' machado', 'joseph disease\n', ' spinocerebellar ataxia\n', ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' charcot', 'marie', 'tooth disease\n', ' frontotemporal dementia\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', ' neuroacanthocytosis syndromes (e.g. chorea', 'acanthocytosis)', " rs1801968: alzheimer's disease, parkinson's disease\n", " rs6265: alzheimer's disease, bipolar disorder, depression, schizophrenia\n", " rs1801133: alzheimer's disease, parkinson's disease\n", " rs7412: alzheimer's disease\n", " rs429358: alzheimer's disease\n", " rs2075650: parkinson's disease\n", " rs4680: parkinson's disease\n", ' rs7997012: schizophrenia\n', " rs16965628: parkinson's disease\n", " rs10830963: parkinson's disease\n", " rs1421894: parkinson's disease\n", " rs12454676: parkinson's disease\n", " rs10166942: parkinson's disease\n", ' rs1801166: schizophrenia\n', ' rs9936833: bipolar disorder, schizophrenia\n', ' rs9939609: obesity, type 2 diabetes\n', " rs17782313: parkinson's disease\n", " rs5082: parkinson's disease\n", " rs1042522: alzheimer's disease, parkinson's disease\n", " rs3813929: parkinson's disease\n", ' rs1800795: schizophrenia\n', " rs2060793: alzheimer's disease, parkinson's disease\n", " rs1800468: alzheimer's disease, parkinson's disease\n", " rs2148072: alzheimer's disease, parkinson's disease\n", " rs165599: parkinson's disease\n", " rs11136000: parkinson's disease\n", ' rs53576: social behavior disorders', " huntington's disease\n", " parkinson's disease with dementia (pdd)\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' niemann', 'pick disease type c\n', ' wilson disease\n', ' creutzfeldt', 'jakob disease (cjd)\n', ' neuroacanthocytosis syndrome\n', ' ataxia telangiectasia\n', ' batten disease\n', ' gaucher disease type 3\n\nplease note that this is not an exhaustive list and other genetic diseases may also present with both movement disorders and cognitive impairment.', " parkinson's disease\n", " huntington's disease\n", ' amyotrophic lateral sclerosis (als)\n', " friedreich's ataxia\n", ' spinocerebellar ataxia\n', ' multiple sclerosis (ms)\n', ' charcot', 'marie', 'tooth disease\n', ' myotonic dystrophy\n', ' leigh syndrome\n', ' mitochondrial encephalomyopathy, lactic acidosis, and stroke', 'like episodes (melas)\n', ' hereditary spastic paraplegia (hsp)\n', ' ataxia', 'telangiectasia (a', 't) syndrome\n', ' niemann', 'pick disease type c\n\nplease note that this is not an exhaustive list and there could be other genetic diseases that present with these symptoms as well.']
+{'rsparkinsonsdisease': 12, 'rsalzheimersdiseaseparkinsonsdisease': 6, 'huntingtonsdisease': 3, 'rsschizophrenia': 3, 'parkinsonsdisease': 2, 'lewybodydementia': 2, 'spinocerebellarataxia': 2, 'amyotrophiclateralsclerosisals': 2, 'friedreichsataxia': 2, 'charcot': 2, 'marie': 2, 'toothdisease': 2, 'rsalzheimersdisease': 2, 'niemann': 2, 'alzheimersdisease': 1, 'multiplesystematrophy': 1, 'machado': 1, 'josephdisease': 1, 'frontotemporaldementia': 1, 'priondiseasesegcreutzfeldt': 1, 'jakobdisease': 1, 'neuroacanthocytosissyndromesegchorea': 1, 'acanthocytosis': 1, 'rsalzheimersdiseasebipolardisorderdepressionschizophrenia': 1, 'rsbipolardisorderschizophrenia': 1, 'rsobesitytypediabetes': 1, 'rssocialbehaviordisorders': 1, 'parkinsonsdiseasewithdementiapdd': 1, 'multiplesystematrophymsa': 1, 'pickdiseasetypec': 1, 'wilsondisease': 1, 'creutzfeldt': 1, 'jakobdiseasecjd': 1, 'neuroacanthocytosissyndrome': 1, 'ataxiatelangiectasia': 1, 'battendisease': 1, 'gaucherdiseasetypepleasenotethatthisisnotanexhaustivelistandothergeneticdiseasesmayalsopresentwithbothmovementdisordersandcognitiveimpairment': 1, 'multiplesclerosisms': 1, 'myotonicdystrophy': 1, 'leighsyndrome': 1, 'mitochondrialencephalomyopathylacticacidosisandstroke': 1, 'likeepisodesmelas': 1, 'hereditaryspasticparaplegiahsp': 1, 'ataxia': 1, 'telangiectasiaa': 1, 'tsyndrome': 1, 'pickdiseasetypecpleasenotethatthisisnotanexhaustivelistandtherecouldbeothergeneticdiseasesthatpresentwiththesesymptomsaswell': 1}
+--------------------------------------
+Correctly predicted label parkinsonsdisease
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  answer in single word bullet points.
+- rs7903646 
+- rs12456492 
+- rs17649553 
+- rs356182 
+- rs2248932 
+- rs4945662 
+- rs2435211 
+- rs4680 
+- rs1422887 
+- rs1042882 
+- rs7794745 
+- rs17563 
+- rs2241165 
+- rs2736990 
+- rs2435205 
+- rs3918346
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, rs3918346,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. which genetic diseases present with symptoms such as tremors, rigidity, bradykinesia, postural instability, and gait disturbances?
+2. what genetic diseases are associated with micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia?
+3. which genetic diseases have been linked to the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, and rs2435205?
+4. what genetic diseases exhibit symptoms such as tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and have been linked to the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, and rs2435205?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, rs3918346,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. which genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and involve the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, and rs3918346?
+
+2. which genetic diseases are associated with a combination of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and involve multiple snps including rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, and rs3918346?
+
+3. what genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and involve any of the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, and rs3918346?
+
+4. which genetic diseases are most strongly associated with the combination of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and involve the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, and rs3918346?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, rs3918346,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+sure, here are 4 possible queries:
+
+1. what are some genetic diseases that are associated with the phenotypes of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, as well as the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, and rs3918346?
+
+2. are there any genetic diseases that have been linked to the symptoms of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, as well as any of the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, or rs3918346?
+
+3. can you provide a list of genetic diseases that exhibit the phenotypes of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, as well as any of the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, or rs3918346?
+
+4. based on the presence of the phenotypes of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, as well as any of the snps rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, or rs3918346, what are some genetic diseases that could potentially be responsible for these symptoms?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs7903646, rs12456492, rs17649553, rs356182, rs2248932, rs4945662, rs2435211, rs4680, rs1422887, rs1042882, rs7794745, rs17563, rs2241165, rs2736990, rs2435205, rs3918346,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+here are 4 queries to infer the genetic disease of this person:
+- what genetic diseases are associated with the combination of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs7903646, rs12456492, and rs17649553 snps?
+- what is the genetic disease that presents with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and is associated with rs356182, rs2248932, and rs4945662 snps?
+- are there any genetic diseases that present with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs2435211, rs4680, rs1422887, and rs1042882 snps?
+- which genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs7794745, rs17563, rs2241165, rs2736990, and rs2435205 snps?
+Q:  what genetic diseases are associated with the combination of tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs7903646, rs12456492, and rs17649553 snps?
+ Please answer in bullet points with one or more disease names only.
+A: based on the given phenotypes and snps, some possible genetic diseases that could be associated are:
+
+- parkinson's disease
+- lewy body dementia
+- multiple system atrophy (msa)
+- progressive supranuclear palsy (psp)
+- corticobasal degeneration (cbd)
+
+it's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases.
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' progressive supranuclear palsy (psp)\n', " corticobasal degeneration (cbd)\n\nit's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases."]]
+Q:  what is the genetic disease that presents with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, and is associated with rs356182, rs2248932, and rs4945662 snps?
+ Please answer in bullet points with one or more disease names only.
+A: based on the given symptoms and snps, the following disease may be associated:
+
+- parkinson's disease
+
+note: it is important to keep in mind that genetic testing alone may not be sufficient to diagnose a disease, and other factors such as medical history, physical examination, and additional testing may be necessary for a proper diagnosis.
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' progressive supranuclear palsy (psp)\n', " corticobasal degeneration (cbd)\n\nit's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases."], [" parkinson's disease\n\nnote: it is important to keep in mind that genetic testing alone may not be sufficient to diagnose a disease, and other factors such as medical history, physical examination, and additional testing may be necessary for a proper diagnosis."]]
+Q:  are there any genetic diseases that present with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs2435211, rs4680, rs1422887, and rs1042882 snps?
+ Please answer in bullet points with one or more disease names only.
+A: yes, some genetic diseases that present with these symptoms and snps include:
+
+- parkinson's disease
+- lewy body dementia
+- multiple system atrophy
+- progressive supranuclear palsy
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' progressive supranuclear palsy (psp)\n', " corticobasal degeneration (cbd)\n\nit's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases."], [" parkinson's disease\n\nnote: it is important to keep in mind that genetic testing alone may not be sufficient to diagnose a disease, and other factors such as medical history, physical examination, and additional testing may be necessary for a proper diagnosis."], [" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' progressive supranuclear palsy']]
+Q:  which genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, and dysphagia, along with the presence of rs7794745, rs17563, rs2241165, rs2736990, and rs2435205 snps? Please answer in bullet points with one or more disease names only.
+A: based on the provided phenotypes and snps, some possible genetic diseases that may be associated with them include:
+
+- parkinson's disease
+- lewy body dementia
+- multiple system atrophy
+- alzheimer's disease
+- dementia with lewy bodies
+
+please note that this is not an exhaustive list, and further evaluation by a medical professional is necessary for a proper diagnosis.
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' progressive supranuclear palsy (psp)\n', " corticobasal degeneration (cbd)\n\nit's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases."], [" parkinson's disease\n\nnote: it is important to keep in mind that genetic testing alone may not be sufficient to diagnose a disease, and other factors such as medical history, physical examination, and additional testing may be necessary for a proper diagnosis."], [" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' progressive supranuclear palsy'], [" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', " alzheimer's disease\n", ' dementia with lewy bodies\n\nplease note that this is not an exhaustive list, and further evaluation by a medical professional is necessary for a proper diagnosis.']]
+[" parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy (msa)\n', ' progressive supranuclear palsy (psp)\n', " corticobasal degeneration (cbd)\n\nit's important to note that a clinical diagnosis would require a thorough evaluation by a medical professional, and genetic testing may also be necessary to confirm any genetic predisposition to these diseases.", " parkinson's disease\n\nnote: it is important to keep in mind that genetic testing alone may not be sufficient to diagnose a disease, and other factors such as medical history, physical examination, and additional testing may be necessary for a proper diagnosis.", " parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' progressive supranuclear palsy', " parkinson's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', " alzheimer's disease\n", ' dementia with lewy bodies\n\nplease note that this is not an exhaustive list, and further evaluation by a medical professional is necessary for a proper diagnosis.']
+{'parkinsonsdisease': 3, 'lewybodydementia': 3, 'multiplesystematrophy': 2, 'multiplesystematrophymsa': 1, 'progressivesupranuclearpalsypsp': 1, 'corticobasaldegenerationcbditsimportanttonotethataclinicaldiagnosiswouldrequireathoroughevaluationbyamedicalprofessionalandgenetictestingmayalsobenecessarytoconfirmanygeneticpredispositiontothesediseases': 1, 'parkinsonsdiseasenoteitisimportanttokeepinmindthatgenetictestingalonemaynotbesufficienttodiagnoseadiseaseandotherfactorssuchasmedicalhistoryphysicalexaminationandadditionaltestingmaybenecessaryforaproperdiagnosis': 1, 'progressivesupranuclearpalsy': 1, 'alzheimersdisease': 1, 'dementiawithlewybodiespleasenotethatthisisnotanexhaustivelistandfurtherevaluationbyamedicalprofessionalisnecessaryforaproperdiagnosis': 1}
+--------------------------------------
+Correctly predicted label parkinsonsdisease
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  answer in single word bullet points.
+- movement disorders: rs1801968, rs7131056, rs2245340
+- cognitive impairment: rs429358, rs7412, rs2075650
+- emotional disturbances: rs6265, rs4680, rs25531
+- sleep disorders: rs12936587, rs1801260, rs10830963
+- difficulty with speech and swallowing: rs10074815, rs805216, rs6498750
+- weight loss and malnutrition: rs9939609, rs17782313, rs1558902
+- muscle rigidity and stiffness: rs1076560, rs8042374, rs9934438
+- fatigue and weakness: rs198388, rs2818642, rs2538513
+- impaired fine motor control: rs1800544, rs3749034, rs713041
+- impaired executive function: rs6265, rs1800497, rs10052957
+- social withdrawal and apathy: rs53576, rs11815748, rs2075570
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+
+
+1. which genetic diseases are associated with the combination of movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, social withdrawal and apathy, and the presence of rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570?
+
+2. what are some genetic diseases that have been associated with the presence of rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570, and present with symptoms such as movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, social withdrawal and apathy?
+
+3. which genetic diseases have been reported to present with symptoms such as movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, social withdrawal and apathy, and have been found to be associated with rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, and other similar snps?
+
+4. can you provide a list of genetic diseases that are associated with the presence of rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313,
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with the combination of movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, and rs11815748.
+2. what are some genetic disorders that are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and also involve variations in the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, and rs11815748?
+3. what are the genetic disorders associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy that have been reported to involve changes in any of the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, or rs11815748?
+4. are there any genetic disorders that specifically involve changes in any of the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs804237
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with the combination of movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, as well as any of the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, or rs2075570?
+2. what are the genetic diseases that commonly cause movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy?
+3. which genetic diseases are associated with a combination of cognitive impairment, emotional disturbances, and sleep disorders, as well as any of the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, or rs2075570?
+4. are there any genetic diseases that are associated with both movement disorders and cognitive impairment, as well as any of the snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, or rs2075570?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with the snp rs1801968, rs7131056, and rs2245340?
+2. are there any genetic diseases associated with the combination of cognitive impairment, emotional disturbances, sleep disorders, and difficulty with speech and swallowing?
+3. what genetic diseases are associated with muscle rigidity and stiffness, fatigue and weakness, and impaired fine motor control?
+4. what genetic diseases are associated with impaired executive function, social withdrawal and apathy, and the snp rs53576?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with the snps rs1801968, rs2245340, rs7412, and rs429358?
+2. what genetic diseases are characterized by movement disorders, cognitive impairment, emotional disturbances, sleep disorders, and difficulty with speech and swallowing?
+3. what genetic diseases are associated with fatigue and weakness, impaired fine motor control, and impaired executive function?
+4. what genetic diseases are associated with social withdrawal and apathy, as well as weight loss and malnutrition due to difficulty eating?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic disorders are associated with the combination of movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and any of the following snps: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570.
+
+2. which genetic diseases present with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and any of the following snps: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570.
+
+3. are there any genetic diseases that commonly present with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and have a high prevalence of any of the following snps: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570?
+
+4. can you list genetic disorders with the same symptoms as the combination of movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and are associated with any of the following snps: rs1801968, rs7131056, rs2245340, rs429358
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy,  and the following SNPs: rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, rs2075570,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+here are 4 queries you could ask chatgpt to infer what genetic disease this person has:
+
+- what genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy?
+- what genetic disorders are associated with snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, and rs2075570?
+- what genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and have been reported in the medical literature?
+- are there any known genetic diseases that exhibit all of the symptoms (movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy) described in this individual?
+Q:  what genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy?
+ Please answer in bullet points with one or more disease names only.
+A: possible genetic diseases associated with these symptoms include:
+
+- huntington's disease
+- parkinson's disease
+- alzheimer's disease
+- amyotrophic lateral sclerosis (als)
+- spinocerebellar ataxia
+- friedreich's ataxia
+- multiple system atrophy
+- prion diseases (such as creutzfeldt-jakob disease)
+- wilson's disease
+- mitochondrial disorders
+- niemann-pick disease type c
+- gaucher's disease
+- tay-sachs disease
+- mucopolysaccharidoses
+- rett syndrome
+- fragile x syndrome
+- lesch-nyhan syndrome
+- pelizaeus-merzbacher disease
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple system atrophy\n', ' prion diseases (such as creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' mitochondrial disorders\n', ' niemann', 'pick disease type c\n', " gaucher's disease\n", ' tay', 'sachs disease\n', ' mucopolysaccharidoses\n', ' rett syndrome\n', ' fragile x syndrome\n', ' lesch', 'nyhan syndrome\n', ' pelizaeus', 'merzbacher disease']]
+Q:  what genetic disorders are associated with snps rs1801968, rs7131056, rs2245340, rs429358, rs7412, rs2075650, rs6265, rs4680, rs25531, rs12936587, rs1801260, rs10830963, rs10074815, rs805216, rs6498750, rs9939609, rs17782313, rs1558902, rs1076560, rs8042374, rs9934438, rs198388, rs2818642, rs2538513, rs1800544, rs3749034, rs713041, rs6265, rs1800497, rs10052957, rs53576, rs11815748, and rs2075570?
+ Please answer in bullet points with one or more disease names only.
+A: - snp rs1801968: wilson's disease
+- snp rs7131056: schizophrenia, bipolar disorder
+- snp rs2245340: alzheimer's disease, parkinson's disease
+- snp rs429358 and rs7412: alzheimer's disease
+- snp rs2075650: parkinson's disease
+- snp rs6265: alzheimer's disease, parkinson's disease, depression, anxiety
+- snp rs4680: adhd, parkinson's disease, alzheimer's disease
+- snp rs25531: depression, anxiety
+- snp rs12936587: schizophrenia, bipolar disorder
+- snp rs1801260: schizophrenia, bipolar disorder
+- snp rs10830963: obesity, type 2 diabetes
+- snp rs10074815: schizophrenia
+- snp rs805216: schizophrenia, bipolar disorder
+- snp rs6498750: schizophrenia
+- snp rs9939609: obesity
+- snp rs17782313: obesity, type 2 diabetes
+- snp rs1558902: parkinson's disease
+- snp rs1076560: alcoholism, bipolar disorder
+- snp rs8042374: parkinson's disease
+- snp rs9934438: parkinson's disease
+- snp rs198388: parkinson's disease
+- snp rs2818642: parkinson's disease
+- snp rs2538513: parkinson's disease
+- snp rs1800544: parkinson's disease
+- snp rs3749034: parkinson's disease
+- snp rs713041: schizophrenia
+- snp rs1800497: alcoholism
+- snp rs10052957: schizophrenia, bipolar disorder
+- snp rs53576: autism spectrum disorder
+- snp rs11815748: alzheimer's disease
+- snp rs2075570: alzheimer's disease, parkinson's disease
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple system atrophy\n', ' prion diseases (such as creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' mitochondrial disorders\n', ' niemann', 'pick disease type c\n', " gaucher's disease\n", ' tay', 'sachs disease\n', ' mucopolysaccharidoses\n', ' rett syndrome\n', ' fragile x syndrome\n', ' lesch', 'nyhan syndrome\n', ' pelizaeus', 'merzbacher disease'], [" snp rs1801968: wilson's disease\n", ' snp rs7131056: schizophrenia, bipolar disorder\n', " snp rs2245340: alzheimer's disease, parkinson's disease\n", " snp rs429358 and rs7412: alzheimer's disease\n", " snp rs2075650: parkinson's disease\n", " snp rs6265: alzheimer's disease, parkinson's disease, depression, anxiety\n", " snp rs4680: adhd, parkinson's disease, alzheimer's disease\n", ' snp rs25531: depression, anxiety\n', ' snp rs12936587: schizophrenia, bipolar disorder\n', ' snp rs1801260: schizophrenia, bipolar disorder\n', ' snp rs10830963: obesity, type 2 diabetes\n', ' snp rs10074815: schizophrenia\n', ' snp rs805216: schizophrenia, bipolar disorder\n', ' snp rs6498750: schizophrenia\n', ' snp rs9939609: obesity\n', ' snp rs17782313: obesity, type 2 diabetes\n', " snp rs1558902: parkinson's disease\n", ' snp rs1076560: alcoholism, bipolar disorder\n', " snp rs8042374: parkinson's disease\n", " snp rs9934438: parkinson's disease\n", " snp rs198388: parkinson's disease\n", " snp rs2818642: parkinson's disease\n", " snp rs2538513: parkinson's disease\n", " snp rs1800544: parkinson's disease\n", " snp rs3749034: parkinson's disease\n", ' snp rs713041: schizophrenia\n', ' snp rs1800497: alcoholism\n', ' snp rs10052957: schizophrenia, bipolar disorder\n', ' snp rs53576: autism spectrum disorder\n', " snp rs11815748: alzheimer's disease\n", " snp rs2075570: alzheimer's disease, parkinson's disease"]]
+Q:  what genetic diseases are associated with movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy, and have been reported in the medical literature?
+ Please answer in bullet points with one or more disease names only.
+A: - huntington's disease
+- parkinson's disease
+- alzheimer's disease
+- amyotrophic lateral sclerosis (als)
+- spinocerebellar ataxia
+- friedreich's ataxia
+- multiple sclerosis
+- niemann-pick disease type c
+- prader-willi syndrome
+- myotonic dystrophy
+- frontotemporal dementia
+- wilson's disease
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple system atrophy\n', ' prion diseases (such as creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' mitochondrial disorders\n', ' niemann', 'pick disease type c\n', " gaucher's disease\n", ' tay', 'sachs disease\n', ' mucopolysaccharidoses\n', ' rett syndrome\n', ' fragile x syndrome\n', ' lesch', 'nyhan syndrome\n', ' pelizaeus', 'merzbacher disease'], [" snp rs1801968: wilson's disease\n", ' snp rs7131056: schizophrenia, bipolar disorder\n', " snp rs2245340: alzheimer's disease, parkinson's disease\n", " snp rs429358 and rs7412: alzheimer's disease\n", " snp rs2075650: parkinson's disease\n", " snp rs6265: alzheimer's disease, parkinson's disease, depression, anxiety\n", " snp rs4680: adhd, parkinson's disease, alzheimer's disease\n", ' snp rs25531: depression, anxiety\n', ' snp rs12936587: schizophrenia, bipolar disorder\n', ' snp rs1801260: schizophrenia, bipolar disorder\n', ' snp rs10830963: obesity, type 2 diabetes\n', ' snp rs10074815: schizophrenia\n', ' snp rs805216: schizophrenia, bipolar disorder\n', ' snp rs6498750: schizophrenia\n', ' snp rs9939609: obesity\n', ' snp rs17782313: obesity, type 2 diabetes\n', " snp rs1558902: parkinson's disease\n", ' snp rs1076560: alcoholism, bipolar disorder\n', " snp rs8042374: parkinson's disease\n", " snp rs9934438: parkinson's disease\n", " snp rs198388: parkinson's disease\n", " snp rs2818642: parkinson's disease\n", " snp rs2538513: parkinson's disease\n", " snp rs1800544: parkinson's disease\n", " snp rs3749034: parkinson's disease\n", ' snp rs713041: schizophrenia\n', ' snp rs1800497: alcoholism\n', ' snp rs10052957: schizophrenia, bipolar disorder\n', ' snp rs53576: autism spectrum disorder\n', " snp rs11815748: alzheimer's disease\n", " snp rs2075570: alzheimer's disease, parkinson's disease"], [" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple sclerosis\n', ' niemann', 'pick disease type c\n', ' prader', 'willi syndrome\n', ' myotonic dystrophy\n', ' frontotemporal dementia\n', " wilson's disease"]]
+Q:  are there any known genetic diseases that exhibit all of the symptoms (movement disorders, cognitive impairment, emotional disturbances, sleep disorders, difficulty with speech and swallowing, weight loss and malnutrition, muscle rigidity and stiffness, fatigue and weakness, impaired fine motor control, impaired executive function, and social withdrawal and apathy) described in this individual? Please answer in bullet points with one or more disease names only.
+A: there are several genetic diseases that can exhibit a combination of the symptoms described, but it is important to note that each individual case is unique and may not present with all symptoms. here are a few possibilities:
+
+- huntington's disease
+- parkinson's disease
+- alzheimer's disease
+- lewy body dementia
+- multiple system atrophy
+- progressive supranuclear palsy
+- corticobasal degeneration
+- creutzfeldt-jakob disease
+- machado-joseph disease
+- niemann-pick disease type c
+
+it is important to consult with a medical professional for an accurate diagnosis and treatment plan.
+--------------------------------------
+[[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple system atrophy\n', ' prion diseases (such as creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' mitochondrial disorders\n', ' niemann', 'pick disease type c\n', " gaucher's disease\n", ' tay', 'sachs disease\n', ' mucopolysaccharidoses\n', ' rett syndrome\n', ' fragile x syndrome\n', ' lesch', 'nyhan syndrome\n', ' pelizaeus', 'merzbacher disease'], [" snp rs1801968: wilson's disease\n", ' snp rs7131056: schizophrenia, bipolar disorder\n', " snp rs2245340: alzheimer's disease, parkinson's disease\n", " snp rs429358 and rs7412: alzheimer's disease\n", " snp rs2075650: parkinson's disease\n", " snp rs6265: alzheimer's disease, parkinson's disease, depression, anxiety\n", " snp rs4680: adhd, parkinson's disease, alzheimer's disease\n", ' snp rs25531: depression, anxiety\n', ' snp rs12936587: schizophrenia, bipolar disorder\n', ' snp rs1801260: schizophrenia, bipolar disorder\n', ' snp rs10830963: obesity, type 2 diabetes\n', ' snp rs10074815: schizophrenia\n', ' snp rs805216: schizophrenia, bipolar disorder\n', ' snp rs6498750: schizophrenia\n', ' snp rs9939609: obesity\n', ' snp rs17782313: obesity, type 2 diabetes\n', " snp rs1558902: parkinson's disease\n", ' snp rs1076560: alcoholism, bipolar disorder\n', " snp rs8042374: parkinson's disease\n", " snp rs9934438: parkinson's disease\n", " snp rs198388: parkinson's disease\n", " snp rs2818642: parkinson's disease\n", " snp rs2538513: parkinson's disease\n", " snp rs1800544: parkinson's disease\n", " snp rs3749034: parkinson's disease\n", ' snp rs713041: schizophrenia\n', ' snp rs1800497: alcoholism\n', ' snp rs10052957: schizophrenia, bipolar disorder\n', ' snp rs53576: autism spectrum disorder\n', " snp rs11815748: alzheimer's disease\n", " snp rs2075570: alzheimer's disease, parkinson's disease"], [" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple sclerosis\n', ' niemann', 'pick disease type c\n', ' prader', 'willi syndrome\n', ' myotonic dystrophy\n', ' frontotemporal dementia\n', " wilson's disease"], [" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' creutzfeldt', 'jakob disease\n', ' machado', 'joseph disease\n', ' niemann', 'pick disease type c\n\nit is important to consult with a medical professional for an accurate diagnosis and treatment plan.']]
+[" huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple system atrophy\n', ' prion diseases (such as creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' mitochondrial disorders\n', ' niemann', 'pick disease type c\n', " gaucher's disease\n", ' tay', 'sachs disease\n', ' mucopolysaccharidoses\n', ' rett syndrome\n', ' fragile x syndrome\n', ' lesch', 'nyhan syndrome\n', ' pelizaeus', 'merzbacher disease', " snp rs1801968: wilson's disease\n", ' snp rs7131056: schizophrenia, bipolar disorder\n', " snp rs2245340: alzheimer's disease, parkinson's disease\n", " snp rs429358 and rs7412: alzheimer's disease\n", " snp rs2075650: parkinson's disease\n", " snp rs6265: alzheimer's disease, parkinson's disease, depression, anxiety\n", " snp rs4680: adhd, parkinson's disease, alzheimer's disease\n", ' snp rs25531: depression, anxiety\n', ' snp rs12936587: schizophrenia, bipolar disorder\n', ' snp rs1801260: schizophrenia, bipolar disorder\n', ' snp rs10830963: obesity, type 2 diabetes\n', ' snp rs10074815: schizophrenia\n', ' snp rs805216: schizophrenia, bipolar disorder\n', ' snp rs6498750: schizophrenia\n', ' snp rs9939609: obesity\n', ' snp rs17782313: obesity, type 2 diabetes\n', " snp rs1558902: parkinson's disease\n", ' snp rs1076560: alcoholism, bipolar disorder\n', " snp rs8042374: parkinson's disease\n", " snp rs9934438: parkinson's disease\n", " snp rs198388: parkinson's disease\n", " snp rs2818642: parkinson's disease\n", " snp rs2538513: parkinson's disease\n", " snp rs1800544: parkinson's disease\n", " snp rs3749034: parkinson's disease\n", ' snp rs713041: schizophrenia\n', ' snp rs1800497: alcoholism\n', ' snp rs10052957: schizophrenia, bipolar disorder\n', ' snp rs53576: autism spectrum disorder\n', " snp rs11815748: alzheimer's disease\n", " snp rs2075570: alzheimer's disease, parkinson's disease", " huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' amyotrophic lateral sclerosis (als)\n', ' spinocerebellar ataxia\n', " friedreich's ataxia\n", ' multiple sclerosis\n', ' niemann', 'pick disease type c\n', ' prader', 'willi syndrome\n', ' myotonic dystrophy\n', ' frontotemporal dementia\n', " wilson's disease", " huntington's disease\n", " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' creutzfeldt', 'jakob disease\n', ' machado', 'joseph disease\n', ' niemann', 'pick disease type c\n\nit is important to consult with a medical professional for an accurate diagnosis and treatment plan.']
+{'snprsparkinsonsdisease': 9, 'snprsschizophreniabipolardisorder': 5, 'huntingtonsdisease': 3, 'parkinsonsdisease': 3, 'alzheimersdisease': 3, 'niemann': 3, 'snprsschizophrenia': 3, 'amyotrophiclateralsclerosisals': 2, 'spinocerebellarataxia': 2, 'friedreichsataxia': 2, 'multiplesystematrophy': 2, 'jakobdisease': 2, 'wilsonsdisease': 2, 'pickdiseasetypec': 2, 'snprsalzheimersdiseaseparkinsonsdisease': 2, 'snprsobesitytypediabetes': 2, 'priondiseasessuchascreutzfeldt': 1, 'mitochondrialdisorders': 1, 'gauchersdisease': 1, 'tay': 1, 'sachsdisease': 1, 'mucopolysaccharidoses': 1, 'rettsyndrome': 1, 'fragilexsyndrome': 1, 'lesch': 1, 'nyhansyndrome': 1, 'pelizaeus': 1, 'merzbacherdisease': 1, 'snprswilsonsdisease': 1, 'snprsandrsalzheimersdisease': 1, 'snprsalzheimersdiseaseparkinsonsdiseasedepressionanxiety': 1, 'snprsadhdparkinsonsdiseasealzheimersdisease': 1, 'snprsdepressionanxiety': 1, 'snprsobesity': 1, 'snprsalcoholismbipolardisorder': 1, 'snprsalcoholism': 1, 'snprsautismspectrumdisorder': 1, 'snprsalzheimersdisease': 1, 'multiplesclerosis': 1, 'prader': 1, 'willisyndrome': 1, 'myotonicdystrophy': 1, 'frontotemporaldementia': 1, 'lewybodydementia': 1, 'progressivesupranuclearpalsy': 1, 'corticobasaldegeneration': 1, 'creutzfeldt': 1, 'machado': 1, 'josephdisease': 1, 'pickdiseasetypecitisimportanttoconsultwithamedicalprofessionalforanaccuratediagnosisandtreatmentplan': 1}
+--------------------------------------
+Incorrectly predicted label cysticfibrosis
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  answer in single word bullet points.
+- rs1800562 (iron overload)
+- rs738409 (liver disease)
+- rs7903146 (diabetes mellitus type 2)
+- rs12203592 (skin pigmentation)
+- rs731236 (joint pain/arthritis)
+- rs3212986 (fatigue and weakness)
+- rs12150660 (loss of sex drive/hypogonadism)
+- rs1805127 (heart disease)
+- rs1991517 (thyroid dysfunction/hypothyroidism)
+- rs2230806 (pancreatic dysfunction/pancreatitis)
+- rs1799931 (impotence/erectile dysfunction)
+- rs1801282 (abdominal pain/swelling due to liver or spleen enlargement)
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282, and exhibit iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling?
+
+2. what are some genetic diseases that exhibit iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling, and have been reported in the medical literature?
+
+3. what are some genetic diseases that exhibit iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling, and have a known genetic basis?
+
+4. what are some genetic diseases that exhibit iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling, and have been reported in populations with a similar genetic background as the individual in question?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, hypogonadism, heart disease, thyroid dysfunction, pancreatic dysfunction, and impotence, and have been reported in the medical literature?
+
+2. what genetic diseases are associated with the snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282, and have been reported in the medical literature?
+
+3. are there any known genetic diseases that exhibit all of the symptoms (iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, hypogonadism, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, abdominal pain and swelling), and are associated with the snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282?
+
+4. what genetic diseases are associated with iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, hypogonadism, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, abdominal pain and swelling, and are inherited in an autosomal recessive manner?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, and abdominal pain and swelling?
+2. which genetic diseases are associated with the snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282?
+3. are there any known genetic diseases that present with all of the phenotypes described in this person?
+4. based on the combination of these phenotypes and snps, what genetic disease(s) could this person potentially have?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+here are four queries that you could ask chatgpt to infer what genetic disease this person has:
+
+1. what genetic diseases are associated with iron overload, liver disease, diabetes mellitus, skin pigmentation changes, joint pain, fatigue, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, and abdominal pain and swelling?
+
+2. are there any genetic diseases that involve mutations in the snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, or rs1799931?
+
+3. what genetic diseases can cause cirrhosis, hepatocellular carcinoma, type 2 diabetes, skin discoloration, joint pain, fatigue, hypogonadism, arrhythmias, cardiomyopathy, hypothyroidism, pancreatitis, erectile dysfunction, and abdominal pain and swelling?
+
+4. can you provide a list of genetic diseases that are known to affect multiple organs and tissues, including the liver, pancreas, thyroid gland, heart, and skin, and present with symptoms such as iron overload, joint pain, fatigue, and loss of sex drive?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling due to liver or spleen enlargement, along with the presence of the following snps: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282?
+
+2. what are the genetic diseases that can cause iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling due to liver or spleen enlargement, given the presence of the following snps: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282?
+
+3. can you list the genetic diseases that have been associated with the presence of the following snps: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282, along with the symptoms of iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling due to liver or spleen enlargement?
+
+4. given the symptoms of iron overload, liver disease, diabetes mellitus, skin pigmentation, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and abdominal pain and swelling due to liver or spleen enlargement, what genetic diseases should be considered in a patient with the following snps: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, and rs1801282?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, rs1799931, rs1801282,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+sure, here are 4 queries that you can ask chatgpt to infer the genetic disease based on the given phenotypes and snps:
+
+- can you list genetic diseases associated with iron overload, liver disease, diabetes mellitus, and skin pigmentation? 
+- what genetic diseases are associated with joint pain, fatigue, weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, and abdominal pain and swelling?
+- what are the possible genetic diseases that can be inferred from the presence of snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, and rs1799931?
+- can you provide a list of genetic diseases that can be inferred from the combination of the given phenotypes and snps?
+Q:  can you list genetic diseases associated with iron overload, liver disease, diabetes mellitus, and skin pigmentation? 
+ Please answer in bullet points with one or more disease names only.
+A: sure, here are some genetic diseases associated with the given phenotypes:
+
+- hemochromatosis (iron overload)
+- wilson's disease (liver disease)
+- glycogen storage disease type 1 (diabetes mellitus)
+- porphyria cutanea tarda (skin pigmentation)
+- alpha-1 antitrypsin deficiency (liver disease) 
+- hereditary hemochromatosis type 2 (iron overload)
+- hfe-related hereditary hemochromatosis (iron overload)
+- neonatal hemochromatosis (iron overload)
+- haemophilia (liver disease)
+- neurofibromatosis type 1 (skin pigmentation)
+- peutz-jeghers syndrome (skin pigmentation)
+--------------------------------------
+[[' hemochromatosis (iron overload)\n', " wilson's disease (liver disease)\n", ' glycogen storage disease type 1 (diabetes mellitus)\n', ' porphyria cutanea tarda (skin pigmentation)\n', ' alpha', '1 antitrypsin deficiency (liver disease) \n', ' hereditary hemochromatosis type 2 (iron overload)\n', ' hfe', 'related hereditary hemochromatosis (iron overload)\n', ' neonatal hemochromatosis (iron overload)\n', ' haemophilia (liver disease)\n', ' neurofibromatosis type 1 (skin pigmentation)\n', ' peutz', 'jeghers syndrome (skin pigmentation)']]
+Q:  what genetic diseases are associated with joint pain, fatigue, weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence, and abdominal pain and swelling?
+ Please answer in bullet points with one or more disease names only.
+A: - joint pain: 
+  - rheumatoid arthritis
+  - osteoarthritis
+  - ankylosing spondylitis
+  - lupus
+
+- fatigue and weakness:
+  - chronic fatigue syndrome
+  - fibromyalgia
+  - multiple sclerosis
+  - myasthenia gravis
+  
+- loss of sex drive (hypogonadism):
+  - klinefelter syndrome
+  - turner syndrome
+  - androgen insensitivity syndrome
+  - primary ovarian insufficiency
+  
+- heart disease:
+  - familial hypercholesterolemia
+  - hypertrophic cardiomyopathy
+  - long qt syndrome
+  - arrhythmogenic right ventricular dysplasia
+  
+- thyroid dysfunction:
+  - hashimoto's thyroiditis
+  - graves' disease
+  - congenital hypothyroidism
+  - thyroid cancer
+  
+- pancreatic dysfunction:
+  - cystic fibrosis
+  - pancreatic cancer
+  - hereditary pancreatitis
+  - mody (maturity onset diabetes of the young)
+  
+- impotence (erectile dysfunction):
+  - peyronie's disease
+  - priapism
+  - hypogonadism
+  - hypertension
+  
+- abdominal pain and swelling:
+  - hemochromatosis
+  - wilson disease
+  - alpha-1 antitrypsin deficiency
+  - primary biliary cirrhosis
+--------------------------------------
+[[' hemochromatosis (iron overload)\n', " wilson's disease (liver disease)\n", ' glycogen storage disease type 1 (diabetes mellitus)\n', ' porphyria cutanea tarda (skin pigmentation)\n', ' alpha', '1 antitrypsin deficiency (liver disease) \n', ' hereditary hemochromatosis type 2 (iron overload)\n', ' hfe', 'related hereditary hemochromatosis (iron overload)\n', ' neonatal hemochromatosis (iron overload)\n', ' haemophilia (liver disease)\n', ' neurofibromatosis type 1 (skin pigmentation)\n', ' peutz', 'jeghers syndrome (skin pigmentation)'], [' joint pain: \n  ', ' rheumatoid arthritis\n  ', ' osteoarthritis\n  ', ' ankylosing spondylitis\n  ', ' lupus\n\n', ' fatigue and weakness:\n  ', ' chronic fatigue syndrome\n  ', ' fibromyalgia\n  ', ' multiple sclerosis\n  ', ' myasthenia gravis\n  \n', ' loss of sex drive (hypogonadism):\n  ', ' klinefelter syndrome\n  ', ' turner syndrome\n  ', ' androgen insensitivity syndrome\n  ', ' primary ovarian insufficiency\n  \n', ' heart disease:\n  ', ' familial hypercholesterolemia\n  ', ' hypertrophic cardiomyopathy\n  ', ' long qt syndrome\n  ', ' arrhythmogenic right ventricular dysplasia\n  \n', ' thyroid dysfunction:\n  ', " hashimoto's thyroiditis\n  ", " graves' disease\n  ", ' congenital hypothyroidism\n  ', ' thyroid cancer\n  \n', ' pancreatic dysfunction:\n  ', ' cystic fibrosis\n  ', ' pancreatic cancer\n  ', ' hereditary pancreatitis\n  ', ' mody (maturity onset diabetes of the young)\n  \n', ' impotence (erectile dysfunction):\n  ', " peyronie's disease\n  ", ' priapism\n  ', ' hypogonadism\n  ', ' hypertension\n  \n', ' abdominal pain and swelling:\n  ', ' hemochromatosis\n  ', ' wilson disease\n  ', ' alpha', '1 antitrypsin deficiency\n  ', ' primary biliary cirrhosis']]
+Q:  what are the possible genetic diseases that can be inferred from the presence of snps rs1800562, rs738409, rs7903146, rs12203592, rs731236, rs3212986, rs12150660, rs1805127, rs1991517, rs2230806, and rs1799931?
+ Please answer in bullet points with one or more disease names only.
+A: here are some possible genetic diseases associated with the given snps:
+
+- hemochromatosis (rs1800562)
+- nonalcoholic fatty liver disease (rs738409)
+- type 2 diabetes mellitus (rs7903146)
+- celiac disease (rs12203592)
+- rheumatoid arthritis (rs731236)
+- crohn's disease (rs3212986)
+- primary biliary cirrhosis (rs12150660)
+- diabetes mellitus (rs1805127)
+- psoriasis (rs1991517)
+- multiple sclerosis (rs2230806)
+- alcohol dependence (rs1799931)
+--------------------------------------
+[[' hemochromatosis (iron overload)\n', " wilson's disease (liver disease)\n", ' glycogen storage disease type 1 (diabetes mellitus)\n', ' porphyria cutanea tarda (skin pigmentation)\n', ' alpha', '1 antitrypsin deficiency (liver disease) \n', ' hereditary hemochromatosis type 2 (iron overload)\n', ' hfe', 'related hereditary hemochromatosis (iron overload)\n', ' neonatal hemochromatosis (iron overload)\n', ' haemophilia (liver disease)\n', ' neurofibromatosis type 1 (skin pigmentation)\n', ' peutz', 'jeghers syndrome (skin pigmentation)'], [' joint pain: \n  ', ' rheumatoid arthritis\n  ', ' osteoarthritis\n  ', ' ankylosing spondylitis\n  ', ' lupus\n\n', ' fatigue and weakness:\n  ', ' chronic fatigue syndrome\n  ', ' fibromyalgia\n  ', ' multiple sclerosis\n  ', ' myasthenia gravis\n  \n', ' loss of sex drive (hypogonadism):\n  ', ' klinefelter syndrome\n  ', ' turner syndrome\n  ', ' androgen insensitivity syndrome\n  ', ' primary ovarian insufficiency\n  \n', ' heart disease:\n  ', ' familial hypercholesterolemia\n  ', ' hypertrophic cardiomyopathy\n  ', ' long qt syndrome\n  ', ' arrhythmogenic right ventricular dysplasia\n  \n', ' thyroid dysfunction:\n  ', " hashimoto's thyroiditis\n  ", " graves' disease\n  ", ' congenital hypothyroidism\n  ', ' thyroid cancer\n  \n', ' pancreatic dysfunction:\n  ', ' cystic fibrosis\n  ', ' pancreatic cancer\n  ', ' hereditary pancreatitis\n  ', ' mody (maturity onset diabetes of the young)\n  \n', ' impotence (erectile dysfunction):\n  ', " peyronie's disease\n  ", ' priapism\n  ', ' hypogonadism\n  ', ' hypertension\n  \n', ' abdominal pain and swelling:\n  ', ' hemochromatosis\n  ', ' wilson disease\n  ', ' alpha', '1 antitrypsin deficiency\n  ', ' primary biliary cirrhosis'], [' hemochromatosis (rs1800562)\n', ' nonalcoholic fatty liver disease (rs738409)\n', ' type 2 diabetes mellitus (rs7903146)\n', ' celiac disease (rs12203592)\n', ' rheumatoid arthritis (rs731236)\n', " crohn's disease (rs3212986)\n", ' primary biliary cirrhosis (rs12150660)\n', ' diabetes mellitus (rs1805127)\n', ' psoriasis (rs1991517)\n', ' multiple sclerosis (rs2230806)\n', ' alcohol dependence (rs1799931)']]
+Q:  can you provide a list of genetic diseases that can be inferred from the combination of the given phenotypes and snps? Please answer in bullet points with one or more disease names only.
+A: based on the given phenotypes and snps, some possible genetic diseases that can be inferred include:
+
+- hemochromatosis
+- hfe-related hereditary hemochromatosis
+- non-alcoholic fatty liver disease (nafld)
+- type 2 diabetes
+- porphyria cutanea tarda
+- arthritis
+- hypogonadism
+- arrhythmogenic right ventricular dysplasia/cardiomyopathy (arvd/c)
+- hypothyroidism
+- chronic pancreatitis
+- hereditary pancreatitis
+- erectile dysfunction
+- splenomegaly
+--------------------------------------
+[[' hemochromatosis (iron overload)\n', " wilson's disease (liver disease)\n", ' glycogen storage disease type 1 (diabetes mellitus)\n', ' porphyria cutanea tarda (skin pigmentation)\n', ' alpha', '1 antitrypsin deficiency (liver disease) \n', ' hereditary hemochromatosis type 2 (iron overload)\n', ' hfe', 'related hereditary hemochromatosis (iron overload)\n', ' neonatal hemochromatosis (iron overload)\n', ' haemophilia (liver disease)\n', ' neurofibromatosis type 1 (skin pigmentation)\n', ' peutz', 'jeghers syndrome (skin pigmentation)'], [' joint pain: \n  ', ' rheumatoid arthritis\n  ', ' osteoarthritis\n  ', ' ankylosing spondylitis\n  ', ' lupus\n\n', ' fatigue and weakness:\n  ', ' chronic fatigue syndrome\n  ', ' fibromyalgia\n  ', ' multiple sclerosis\n  ', ' myasthenia gravis\n  \n', ' loss of sex drive (hypogonadism):\n  ', ' klinefelter syndrome\n  ', ' turner syndrome\n  ', ' androgen insensitivity syndrome\n  ', ' primary ovarian insufficiency\n  \n', ' heart disease:\n  ', ' familial hypercholesterolemia\n  ', ' hypertrophic cardiomyopathy\n  ', ' long qt syndrome\n  ', ' arrhythmogenic right ventricular dysplasia\n  \n', ' thyroid dysfunction:\n  ', " hashimoto's thyroiditis\n  ", " graves' disease\n  ", ' congenital hypothyroidism\n  ', ' thyroid cancer\n  \n', ' pancreatic dysfunction:\n  ', ' cystic fibrosis\n  ', ' pancreatic cancer\n  ', ' hereditary pancreatitis\n  ', ' mody (maturity onset diabetes of the young)\n  \n', ' impotence (erectile dysfunction):\n  ', " peyronie's disease\n  ", ' priapism\n  ', ' hypogonadism\n  ', ' hypertension\n  \n', ' abdominal pain and swelling:\n  ', ' hemochromatosis\n  ', ' wilson disease\n  ', ' alpha', '1 antitrypsin deficiency\n  ', ' primary biliary cirrhosis'], [' hemochromatosis (rs1800562)\n', ' nonalcoholic fatty liver disease (rs738409)\n', ' type 2 diabetes mellitus (rs7903146)\n', ' celiac disease (rs12203592)\n', ' rheumatoid arthritis (rs731236)\n', " crohn's disease (rs3212986)\n", ' primary biliary cirrhosis (rs12150660)\n', ' diabetes mellitus (rs1805127)\n', ' psoriasis (rs1991517)\n', ' multiple sclerosis (rs2230806)\n', ' alcohol dependence (rs1799931)'], [' hemochromatosis\n', ' hfe', 'related hereditary hemochromatosis\n', ' non', 'alcoholic fatty liver disease (nafld)\n', ' type 2 diabetes\n', ' porphyria cutanea tarda\n', ' arthritis\n', ' hypogonadism\n', ' arrhythmogenic right ventricular dysplasia/cardiomyopathy (arvd/c)\n', ' hypothyroidism\n', ' chronic pancreatitis\n', ' hereditary pancreatitis\n', ' erectile dysfunction\n', ' splenomegaly']]
+[' hemochromatosis (iron overload)\n', " wilson's disease (liver disease)\n", ' glycogen storage disease type 1 (diabetes mellitus)\n', ' porphyria cutanea tarda (skin pigmentation)\n', ' alpha', '1 antitrypsin deficiency (liver disease) \n', ' hereditary hemochromatosis type 2 (iron overload)\n', ' hfe', 'related hereditary hemochromatosis (iron overload)\n', ' neonatal hemochromatosis (iron overload)\n', ' haemophilia (liver disease)\n', ' neurofibromatosis type 1 (skin pigmentation)\n', ' peutz', 'jeghers syndrome (skin pigmentation)', ' joint pain: \n  ', ' rheumatoid arthritis\n  ', ' osteoarthritis\n  ', ' ankylosing spondylitis\n  ', ' lupus\n\n', ' fatigue and weakness:\n  ', ' chronic fatigue syndrome\n  ', ' fibromyalgia\n  ', ' multiple sclerosis\n  ', ' myasthenia gravis\n  \n', ' loss of sex drive (hypogonadism):\n  ', ' klinefelter syndrome\n  ', ' turner syndrome\n  ', ' androgen insensitivity syndrome\n  ', ' primary ovarian insufficiency\n  \n', ' heart disease:\n  ', ' familial hypercholesterolemia\n  ', ' hypertrophic cardiomyopathy\n  ', ' long qt syndrome\n  ', ' arrhythmogenic right ventricular dysplasia\n  \n', ' thyroid dysfunction:\n  ', " hashimoto's thyroiditis\n  ", " graves' disease\n  ", ' congenital hypothyroidism\n  ', ' thyroid cancer\n  \n', ' pancreatic dysfunction:\n  ', ' cystic fibrosis\n  ', ' pancreatic cancer\n  ', ' hereditary pancreatitis\n  ', ' mody (maturity onset diabetes of the young)\n  \n', ' impotence (erectile dysfunction):\n  ', " peyronie's disease\n  ", ' priapism\n  ', ' hypogonadism\n  ', ' hypertension\n  \n', ' abdominal pain and swelling:\n  ', ' hemochromatosis\n  ', ' wilson disease\n  ', ' alpha', '1 antitrypsin deficiency\n  ', ' primary biliary cirrhosis', ' hemochromatosis (rs1800562)\n', ' nonalcoholic fatty liver disease (rs738409)\n', ' type 2 diabetes mellitus (rs7903146)\n', ' celiac disease (rs12203592)\n', ' rheumatoid arthritis (rs731236)\n', " crohn's disease (rs3212986)\n", ' primary biliary cirrhosis (rs12150660)\n', ' diabetes mellitus (rs1805127)\n', ' psoriasis (rs1991517)\n', ' multiple sclerosis (rs2230806)\n', ' alcohol dependence (rs1799931)', ' hemochromatosis\n', ' hfe', 'related hereditary hemochromatosis\n', ' non', 'alcoholic fatty liver disease (nafld)\n', ' type 2 diabetes\n', ' porphyria cutanea tarda\n', ' arthritis\n', ' hypogonadism\n', ' arrhythmogenic right ventricular dysplasia/cardiomyopathy (arvd/c)\n', ' hypothyroidism\n', ' chronic pancreatitis\n', ' hereditary pancreatitis\n', ' erectile dysfunction\n', ' splenomegaly']
+{'alpha': 2, 'hfe': 2, 'hereditarypancreatitis': 2, 'hypogonadism': 2, 'hemochromatosis': 2, 'hemochromatosisironoverload': 1, 'wilsonsdiseaseliverdisease': 1, 'glycogenstoragediseasetypediabetesmellitus': 1, 'porphyriacutaneatardaskinpigmentation': 1, 'antitrypsindeficiencyliverdisease': 1, 'hereditaryhemochromatosistypeironoverload': 1, 'relatedhereditaryhemochromatosisironoverload': 1, 'neonatalhemochromatosisironoverload': 1, 'haemophilialiverdisease': 1, 'neurofibromatosistypeskinpigmentation': 1, 'peutz': 1, 'jegherssyndromeskinpigmentation': 1, 'jointpain': 1, 'rheumatoidarthritis': 1, 'osteoarthritis': 1, 'ankylosingspondylitis': 1, 'lupus': 1, 'fatigueandweakness': 1, 'chronicfatiguesyndrome': 1, 'fibromyalgia': 1, 'multiplesclerosis': 1, 'myastheniagravis': 1, 'lossofsexdrivehypogonadism': 1, 'klinefeltersyndrome': 1, 'turnersyndrome': 1, 'androgeninsensitivitysyndrome': 1, 'primaryovarianinsufficiency': 1, 'heartdisease': 1, 'familialhypercholesterolemia': 1, 'hypertrophiccardiomyopathy': 1, 'longqtsyndrome': 1, 'arrhythmogenicrightventriculardysplasia': 1, 'thyroiddysfunction': 1, 'hashimotosthyroiditis': 1, 'gravesdisease': 1, 'congenitalhypothyroidism': 1, 'thyroidcancer': 1, 'pancreaticdysfunction': 1, 'cysticfibrosis': 1, 'pancreaticcancer': 1, 'modymaturityonsetdiabetesoftheyoung': 1, 'impotenceerectiledysfunction': 1, 'peyroniesdisease': 1, 'priapism': 1, 'hypertension': 1, 'abdominalpainandswelling': 1, 'wilsondisease': 1, 'antitrypsindeficiency': 1, 'primarybiliarycirrhosis': 1, 'hemochromatosisrs': 1, 'nonalcoholicfattyliverdiseasers': 1, 'typediabetesmellitusrs': 1, 'celiacdiseasers': 1, 'rheumatoidarthritisrs': 1, 'crohnsdiseasers': 1, 'primarybiliarycirrhosisrs': 1, 'diabetesmellitusrs': 1, 'psoriasisrs': 1, 'multiplesclerosisrs': 1, 'alcoholdependencers': 1, 'relatedhereditaryhemochromatosis': 1, 'non': 1, 'alcoholicfattyliverdiseasenafld': 1, 'typediabetes': 1, 'porphyriacutaneatarda': 1, 'arthritis': 1, 'arrhythmogenicrightventriculardysplasiacardiomyopathyarvdc': 1, 'hypothyroidism': 1, 'chronicpancreatitis': 1, 'erectiledysfunction': 1, 'splenomegaly': 1}
+--------------------------------------
+Incorrectly predicted label hemochromatosis
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning,  answer in single word bullet points.
+- apoe
+- picalm
+- clu
+- cr1
+- bin1
+- abca7
+- sorl1
+- trem2
+- cd33
+- inpp5d
+- epha1
+- nme8
+- mef2c
+- hla-drb1
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning,  answer in single word bullet points.
+sorry, i accidentally repeated the previous answer. here is the correct response:
+
+- rs429358
+- rs7412
+- rs610932
+- rs11136000
+- rs11136003
+- rs11218343
+- rs5984894
+- rs3851179
+- rs11614913
+- rs3851179
+- rs17662520
+- rs11669576
+- rs7294919
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning,  and the following SNPs: rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, rs11669576, rs7294919,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with the presence of snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576, along with the phenotypes of memory loss, difficulty with language and communication, and decline in cognitive abilities?
+
+2. are there any genetic diseases that are commonly associated with memory loss, difficulty with language and communication, and decline in cognitive abilities, and have also been linked to the presence of snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576?
+
+3. are there any well-known genetic diseases associated with memory loss, difficulty with language and communication, and decline in cognitive abilities that have a high likelihood of being present when snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576 are present?
+
+4. based on the phenotypes of memory loss, difficulty with language and communication, and decline in cognitive abilities, along with the presence of snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576, what genetic diseases are most likely to be present in this person?
+Q: known genetic diseases associated with memory loss, difficulty with language and communication, and decline in cognitive abilities that have a high likelihood of being present when snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576 are present?
+
+4. based on the phenotypes of memory loss, difficulty with language and communication, and decline in cognitive abilities, along with the presence of snps rs429358, rs7412, rs610932, rs11136000, rs11136003, rs11218343, rs5984894, rs3851179, rs11614913, rs3851179, rs17662520, and rs11669576, what genetic diseases are most likely to be present in this person? Please answer in bullet points with one or more disease names only.
+A: based on the given snps and phenotypes, the following genetic diseases are most likely to be present:
+
+- alzheimer's disease
+- dementia
+- mild cognitive impairment (mci)
+- cognitive decline in aging
+- age-related macular degeneration (amd) (associated with rs429358 and rs7412)
+
+it's important to note that the presence of these snps alone does not necessarily mean that the person has any of these diseases, as there are likely many other genetic and environmental factors that contribute to their development. further clinical and genetic testing would be needed for a definitive diagnosis.
+--------------------------------------
+[[" alzheimer's disease\n", ' dementia\n', ' mild cognitive impairment (mci)\n', ' cognitive decline in aging\n', ' age', "related macular degeneration (amd) (associated with rs429358 and rs7412)\n\nit's important to note that the presence of these snps alone does not necessarily mean that the person has any of these diseases, as there are likely many other genetic and environmental factors that contribute to their development. further clinical and genetic testing would be needed for a definitive diagnosis."]]
+[" alzheimer's disease\n", ' dementia\n', ' mild cognitive impairment (mci)\n', ' cognitive decline in aging\n', ' age', "related macular degeneration (amd) (associated with rs429358 and rs7412)\n\nit's important to note that the presence of these snps alone does not necessarily mean that the person has any of these diseases, as there are likely many other genetic and environmental factors that contribute to their development. further clinical and genetic testing would be needed for a definitive diagnosis."]
+{'alzheimersdisease': 1, 'dementia': 1, 'mildcognitiveimpairmentmci': 1, 'cognitivedeclineinaging': 1, 'age': 1, 'relatedmaculardegenerationamdassociatedwithrsandrsitsimportanttonotethatthepresenceofthesesnpsalonedoesnotnecessarilymeanthatthepersonhasanyofthesediseasesastherearelikelymanyothergeneticandenvironmentalfactorsthatcontributetotheirdevelopmentfurtherclinicalandgenetictestingwouldbeneededforadefinitivediagnosis': 1}
+--------------------------------------
+Incorrectly predicted label huntingtonsdisease
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  answer in single word bullet points.
+- rs113993960
+- rs1800470
+- rs1800629
+- rs1042031
+- rs7512462
+- rs2073838
+- rs3794060
+- rs2241714
+- rs7561317
+- rs379742
+- rs2075576
+- rs4986936
+- rs7519652
+- rs9551963
+- rs3793784
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, given the presence of snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, and rs9551963?
+2. what are the genetic diseases associated with the snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, and rs9551963, that exhibit respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections?
+3. given the presence of snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, and rs9551963, what are the most likely genetic diseases that exhibit respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections?
+4. what genetic diseases are associated with the phenotypes of respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, along with the presence of snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, and rs9551963?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with respiratory symptoms, digestive symptoms, sweating abnormalities, and infertility?
+2. can you list genetic diseases that are characterized by recurrent lung infections, malabsorption of nutrients, and thickened cervical mucus?
+3. what are the genetic diseases that present with clubbing of the fingers and toes, frequent bowel movements, and sinus infections?
+4. are there any genetic diseases that are known to affect the pancreas, liver, and other organs, as well as present with the symptoms mentioned above?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with mutations in the cftr gene?
+2. are there any genetic diseases that involve respiratory symptoms, digestive symptoms, sweating abnormalities, and infertility?
+3. what genetic diseases are associated with the rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, and rs9551963 snps?
+4. can you provide a list of genetic diseases that affect multiple organs, including the lungs, pancreas, liver, and reproductive system?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and clubbing of fingers and toes?
+2. can you list genetic disorders that affect multiple organs and have symptoms such as recurrent lung infections, malabsorption of nutrients, salty sweat, and infertility?
+3. what are the genetic diseases that are characterized by respiratory symptoms, digestive symptoms, and infertility, along with additional symptoms such as clubbing of fingers and toes and nasal polyps?
+4. are there any genetic disorders that are known to cause both respiratory symptoms and digestive symptoms, as well as other symptoms such as salty sweat and infertility?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic disease is associated with respiratory symptoms, digestive symptoms, sweating abnormalities, and infertility?
+2. which genetic diseases are known to cause frequent lung infections, malabsorption of nutrients, and thickened cervical mucus?
+3. what genetic diseases can cause nasal polyps, sinus infections, and affect multiple organs including the pancreas and liver?
+4. are there any genetic diseases that are associated with both clubbing of the fingers and toes and excessively salty sweat?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic disease is characterized by respiratory symptoms such as coughing, wheezing, shortness of breath, and recurrent lung infections, as well as digestive symptoms such as poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages, and sweating abnormalities such as excessively salty sweat?
+
+2. what genetic disease is associated with infertility, including difficulty fathering children due to blocked sperm ducts in men and reduced fertility due to thickened cervical mucus in women, as well as other symptoms such as clubbing of the fingers and toes, nasal polyps, sinus infections, and possible organ involvement?
+
+3. what is the name of the genetic disease that causes respiratory symptoms such as coughing, wheezing, shortness of breath, and recurrent lung infections, as well as digestive symptoms such as poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages, sweating abnormalities such as excessively salty sweat, and infertility in both men and women?
+
+4. what genetic disorder is characterized by respiratory symptoms such as coughing, wheezing, shortness of breath, and recurrent lung infections, as well as digestive symptoms such as poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages, sweating abnormalities such as excessively salty sweat, and other symptoms such as clubbing of the fingers and toes, nasal polyps, sinus infections, and possible organ involvement, and is associated with the following snps: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, and rs3793784?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs,  and the following SNPs: rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, rs3793784,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+sure, here are four queries you can use to infer what genetic disease this person might have:
+
+- what genetic diseases are characterized by respiratory symptoms such as coughing, wheezing, shortness of breath, and recurrent lung infections, as well as digestive symptoms like poor weight gain, malabsorption of nutrients, frequent bowel movements, and intestinal blockages, and sweating abnormalities such as excessively salty sweat?
+- what genetic diseases can cause infertility in both men and women, with men having difficulty fathering children due to blocked sperm ducts and women having reduced fertility due to thickened cervical mucus, as well as other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections?
+- are there any genetic diseases that can affect multiple organs, including the respiratory and digestive systems, as well as cause sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, and are associated with the snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, and rs3793784?
+- are there any genetic diseases that have similar symptoms to cystic fibrosis, including respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, but are caused by different mutations or genetic variations?
+Q:  what genetic diseases are characterized by respiratory symptoms such as coughing, wheezing, shortness of breath, and recurrent lung infections, as well as digestive symptoms like poor weight gain, malabsorption of nutrients, frequent bowel movements, and intestinal blockages, and sweating abnormalities such as excessively salty sweat?
+ Please answer in bullet points with one or more disease names only.
+A: - cystic fibrosis
+- primary ciliary dyskinesia
+- chronic granulomatous disease
+- shwachman-diamond syndrome 
+- pearson syndrome
+- pearson marrow-pancreas syndrome 
+- pearson’s syndrome with kearns-sayre syndrome 
+
+note that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.
+--------------------------------------
+[[' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' chronic granulomatous disease\n', ' shwachman', 'diamond syndrome \n', ' pearson syndrome\n', ' pearson marrow', 'pancreas syndrome \n', ' pearson’s syndrome with kearns', 'sayre syndrome \n\nnote that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.']]
+Q:  what genetic diseases can cause infertility in both men and women, with men having difficulty fathering children due to blocked sperm ducts and women having reduced fertility due to thickened cervical mucus, as well as other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections?
+ Please answer in bullet points with one or more disease names only.
+A: - cystic fibrosis
+- primary ciliary dyskinesia
+- young syndrome
+--------------------------------------
+[[' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' chronic granulomatous disease\n', ' shwachman', 'diamond syndrome \n', ' pearson syndrome\n', ' pearson marrow', 'pancreas syndrome \n', ' pearson’s syndrome with kearns', 'sayre syndrome \n\nnote that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.'], [' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' young syndrome']]
+Q:  are there any genetic diseases that can affect multiple organs, including the respiratory and digestive systems, as well as cause sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, and are associated with the snps rs113993960, rs1800470, rs1800629, rs1042031, rs7512462, rs2073838, rs3794060, rs2241714, rs7561317, rs379742, rs2075576, rs4986936, rs7519652, rs9551963, and rs3793784?
+ Please answer in bullet points with one or more disease names only.
+A: yes, there is a genetic disease that matches these symptoms and snps. the disease is:
+
+- cystic fibrosis
+--------------------------------------
+[[' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' chronic granulomatous disease\n', ' shwachman', 'diamond syndrome \n', ' pearson syndrome\n', ' pearson marrow', 'pancreas syndrome \n', ' pearson’s syndrome with kearns', 'sayre syndrome \n\nnote that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.'], [' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' young syndrome'], [' cystic fibrosis']]
+Q:  are there any genetic diseases that have similar symptoms to cystic fibrosis, including respiratory symptoms, digestive symptoms, sweating abnormalities, infertility, and other symptoms such as clubbing of the fingers and toes, nasal polyps, and sinus infections, but are caused by different mutations or genetic variations? Please answer in bullet points with one or more disease names only.
+A: yes, there are genetic diseases that share similar symptoms with cystic fibrosis, including:
+
+- primary ciliary dyskinesia (pcd)
+- alpha-1 antitrypsin deficiency
+- shwachman-diamond syndrome
+- immunodeficiency-centromeric instability-facial anomalies syndrome (icf)
+- hereditary pancreatitis
+
+note that while these diseases share similar symptoms with cystic fibrosis, they are caused by different mutations or genetic variations.
+--------------------------------------
+[[' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' chronic granulomatous disease\n', ' shwachman', 'diamond syndrome \n', ' pearson syndrome\n', ' pearson marrow', 'pancreas syndrome \n', ' pearson’s syndrome with kearns', 'sayre syndrome \n\nnote that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.'], [' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' young syndrome'], [' cystic fibrosis'], [' primary ciliary dyskinesia (pcd)\n', ' alpha', '1 antitrypsin deficiency\n', ' shwachman', 'diamond syndrome\n', ' immunodeficiency', 'centromeric instability', 'facial anomalies syndrome (icf)\n', ' hereditary pancreatitis\n\nnote that while these diseases share similar symptoms with cystic fibrosis, they are caused by different mutations or genetic variations.']]
+[' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' chronic granulomatous disease\n', ' shwachman', 'diamond syndrome \n', ' pearson syndrome\n', ' pearson marrow', 'pancreas syndrome \n', ' pearson’s syndrome with kearns', 'sayre syndrome \n\nnote that there may be other diseases that share some of these symptoms, and further genetic testing and clinical evaluation would be needed to confirm a diagnosis.', ' cystic fibrosis\n', ' primary ciliary dyskinesia\n', ' young syndrome', ' cystic fibrosis', ' primary ciliary dyskinesia (pcd)\n', ' alpha', '1 antitrypsin deficiency\n', ' shwachman', 'diamond syndrome\n', ' immunodeficiency', 'centromeric instability', 'facial anomalies syndrome (icf)\n', ' hereditary pancreatitis\n\nnote that while these diseases share similar symptoms with cystic fibrosis, they are caused by different mutations or genetic variations.']
+{'cysticfibrosis': 3, 'primaryciliarydyskinesia': 2, 'shwachman': 2, 'diamondsyndrome': 2, 'chronicgranulomatousdisease': 1, 'pearsonsyndrome': 1, 'pearsonmarrow': 1, 'pancreassyndrome': 1, 'pearsonssyndromewithkearns': 1, 'sayresyndromenotethattheremaybeotherdiseasesthatsharesomeofthesesymptomsandfurthergenetictestingandclinicalevaluationwouldbeneededtoconfirmadiagnosis': 1, 'youngsyndrome': 1, 'primaryciliarydyskinesiapcd': 1, 'alpha': 1, 'antitrypsindeficiency': 1, 'immunodeficiency': 1, 'centromericinstability': 1, 'facialanomaliessyndromeicf': 1, 'hereditarypancreatitisnotethatwhilethesediseasessharesimilarsymptomswithcysticfibrosistheyarecausedbydifferentmutationsorgeneticvariations': 1}
+--------------------------------------
+Incorrectly predicted label huntingtonsdisease
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  answer in single word bullet points.
+- rs1800562 (for iron overload)
+- rs738409 (for liver disease)
+- rs7903146 (for diabetes mellitus type 2)
+- rs1800414 (for skin pigmentation)
+- rs731236 (for joint pain)
+- rs2257 (for fatigue and weakness)
+- rs10886471 (for loss of sex drive)
+- rs1805127 (for heart disease)
+- rs7322565 (for thyroid dysfunction)
+- rs2287074 (for pancreatic dysfunction)
+- rs10483727 (for impotence in men)
+- rs7310409 (for abdominal pain and swelling)
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement),  and the following SNPs: rs1800562, rs738409, rs7903146, rs1800414, rs731236, rs2257, rs10886471, rs1805127, rs7322565, rs2287074, rs10483727, rs7310409,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+sure, here are 4 queries you could use to infer what genetic disease this person has:
+
+- what genetic diseases are characterized by iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snps rs1800562, rs738409, rs7903146, rs1800414, rs731236, rs2257, rs10886471, rs1805127, rs7322565, and rs2287074? please answer in bullet points with one or more disease names only.
+- what genetic diseases can cause iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snp rs7310409? please answer in bullet points with one or more disease names only.
+- what genetic diseases are characterized by iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snps rs1800562, rs738409, rs7903146, rs1800414, and rs731236? please answer in bullet points with one or more disease names only.
+- what genetic diseases can cause liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, abdominal pain and swelling due to liver or spleen enlargement, and the snp rs10483727? please answer in bullet points with one or more disease names only.
+Q:  what genetic diseases are characterized by iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snps rs1800562, rs738409, rs7903146, rs1800414, rs731236, rs2257, rs10886471, rs1805127, rs7322565, and rs2287074? please answer in bullet points with one or more disease names only.
+ Please answer in bullet points with one or more disease names only.
+A: based on the given phenotypes and snps, possible genetic diseases include:
+
+- hemochromatosis
+- nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)
+- type 2 diabetes mellitus (t2dm)
+- porphyria cutanea tarda
+- arthritis (multiple types possible)
+- chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)
+- hypogonadotropic hypogonadism (hh)
+- hemochromatosis-associated cardiomyopathy and/or arrhythmias
+- hashimoto's thyroiditis or other forms of hypothyroidism
+- pancreatic cancer or pancreatitis
+- erectile dysfunction (ed)
+- hemochromatosis-associated abdominal pain and/or splenomegaly
+--------------------------------------
+[[' hemochromatosis\n', ' nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)\n', ' type 2 diabetes mellitus (t2dm)\n', ' porphyria cutanea tarda\n', ' arthritis (multiple types possible)\n', ' chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)\n', ' hypogonadotropic hypogonadism (hh)\n', ' hemochromatosis', 'associated cardiomyopathy and/or arrhythmias\n', " hashimoto's thyroiditis or other forms of hypothyroidism\n", ' pancreatic cancer or pancreatitis\n', ' erectile dysfunction (ed)\n', ' hemochromatosis', 'associated abdominal pain and/or splenomegaly']]
+Q:  what genetic diseases can cause iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snp rs7310409? please answer in bullet points with one or more disease names only.
+ Please answer in bullet points with one or more disease names only.
+A: - hemochromatosis 
+- hfe-associated hereditary hemochromatosis 
+- juvenile hemochromatosis 
+- porphyria cutanea tarda 
+- sickle cell anemia 
+- thalassemia 
+- polycythemia vera 
+- friedreich's ataxia 
+- wilson's disease 
+- alström syndrome 
+- african iron overload 
+- hyperferritinemia-cataract syndrome
+--------------------------------------
+[[' hemochromatosis\n', ' nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)\n', ' type 2 diabetes mellitus (t2dm)\n', ' porphyria cutanea tarda\n', ' arthritis (multiple types possible)\n', ' chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)\n', ' hypogonadotropic hypogonadism (hh)\n', ' hemochromatosis', 'associated cardiomyopathy and/or arrhythmias\n', " hashimoto's thyroiditis or other forms of hypothyroidism\n", ' pancreatic cancer or pancreatitis\n', ' erectile dysfunction (ed)\n', ' hemochromatosis', 'associated abdominal pain and/or splenomegaly'], [' hemochromatosis \n', ' hfe', 'associated hereditary hemochromatosis \n', ' juvenile hemochromatosis \n', ' porphyria cutanea tarda \n', ' sickle cell anemia \n', ' thalassemia \n', ' polycythemia vera \n', " friedreich's ataxia \n", " wilson's disease \n", ' alström syndrome \n', ' african iron overload \n', ' hyperferritinemia', 'cataract syndrome']]
+Q:  what genetic diseases are characterized by iron overload, liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, and the snps rs1800562, rs738409, rs7903146, rs1800414, and rs731236? please answer in bullet points with one or more disease names only.
+ Please answer in bullet points with one or more disease names only.
+A: some genetic diseases characterized by these symptoms and snps include:
+
+- hemochromatosis
+- hfe-related hereditary hemochromatosis
+- non-hfe related hereditary hemochromatosis
+- porphyria cutanea tarda (pct)
+- wilson's disease 
+- alström syndrome
+- wolfram syndrome 
+- pearson syndrome
+- mody type 2 
+- fatty liver disease 
+- diabetes mellitus type 2 
+- arthritis 
+- hypothyroidism 
+- pancreatitis 
+- impotence (erectile dysfunction) in men 
+- cardiomyopathy and arrhythmias.
+--------------------------------------
+[[' hemochromatosis\n', ' nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)\n', ' type 2 diabetes mellitus (t2dm)\n', ' porphyria cutanea tarda\n', ' arthritis (multiple types possible)\n', ' chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)\n', ' hypogonadotropic hypogonadism (hh)\n', ' hemochromatosis', 'associated cardiomyopathy and/or arrhythmias\n', " hashimoto's thyroiditis or other forms of hypothyroidism\n", ' pancreatic cancer or pancreatitis\n', ' erectile dysfunction (ed)\n', ' hemochromatosis', 'associated abdominal pain and/or splenomegaly'], [' hemochromatosis \n', ' hfe', 'associated hereditary hemochromatosis \n', ' juvenile hemochromatosis \n', ' porphyria cutanea tarda \n', ' sickle cell anemia \n', ' thalassemia \n', ' polycythemia vera \n', " friedreich's ataxia \n", " wilson's disease \n", ' alström syndrome \n', ' african iron overload \n', ' hyperferritinemia', 'cataract syndrome'], [' hemochromatosis\n', ' hfe', 'related hereditary hemochromatosis\n', ' non', 'hfe related hereditary hemochromatosis\n', ' porphyria cutanea tarda (pct)\n', " wilson's disease \n", ' alström syndrome\n', ' wolfram syndrome \n', ' pearson syndrome\n', ' mody type 2 \n', ' fatty liver disease \n', ' diabetes mellitus type 2 \n', ' arthritis \n', ' hypothyroidism \n', ' pancreatitis \n', ' impotence (erectile dysfunction) in men \n', ' cardiomyopathy and arrhythmias.']]
+Q:  what genetic diseases can cause liver disease, diabetes mellitus, skin pigmentation abnormalities, joint pain, fatigue and weakness, loss of sex drive, heart disease, thyroid dysfunction, pancreatic dysfunction, impotence in men, abdominal pain and swelling due to liver or spleen enlargement, and the snp rs10483727? please answer in bullet points with one or more disease names only. Please answer in bullet points with one or more disease names only.
+A: here are some genetic diseases that can cause these symptoms and are associated with snp rs10483727:
+
+- gaucher disease
+- niemann-pick disease
+- wilson disease
+- hemochromatosis
+- porphyria
+- alpha-1 antitrypsin deficiency
+- cystic fibrosis
+- alagille syndrome
+- glycogen storage disease type i
+- wolman disease
+
+note: this is not an exhaustive list and other genetic diseases may also cause these symptoms. it is important to consult with a medical professional for a proper diagnosis.
+--------------------------------------
+[[' hemochromatosis\n', ' nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)\n', ' type 2 diabetes mellitus (t2dm)\n', ' porphyria cutanea tarda\n', ' arthritis (multiple types possible)\n', ' chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)\n', ' hypogonadotropic hypogonadism (hh)\n', ' hemochromatosis', 'associated cardiomyopathy and/or arrhythmias\n', " hashimoto's thyroiditis or other forms of hypothyroidism\n", ' pancreatic cancer or pancreatitis\n', ' erectile dysfunction (ed)\n', ' hemochromatosis', 'associated abdominal pain and/or splenomegaly'], [' hemochromatosis \n', ' hfe', 'associated hereditary hemochromatosis \n', ' juvenile hemochromatosis \n', ' porphyria cutanea tarda \n', ' sickle cell anemia \n', ' thalassemia \n', ' polycythemia vera \n', " friedreich's ataxia \n", " wilson's disease \n", ' alström syndrome \n', ' african iron overload \n', ' hyperferritinemia', 'cataract syndrome'], [' hemochromatosis\n', ' hfe', 'related hereditary hemochromatosis\n', ' non', 'hfe related hereditary hemochromatosis\n', ' porphyria cutanea tarda (pct)\n', " wilson's disease \n", ' alström syndrome\n', ' wolfram syndrome \n', ' pearson syndrome\n', ' mody type 2 \n', ' fatty liver disease \n', ' diabetes mellitus type 2 \n', ' arthritis \n', ' hypothyroidism \n', ' pancreatitis \n', ' impotence (erectile dysfunction) in men \n', ' cardiomyopathy and arrhythmias.'], [' gaucher disease\n', ' niemann', 'pick disease\n', ' wilson disease\n', ' hemochromatosis\n', ' porphyria\n', ' alpha', '1 antitrypsin deficiency\n', ' cystic fibrosis\n', ' alagille syndrome\n', ' glycogen storage disease type i\n', ' wolman disease\n\nnote: this is not an exhaustive list and other genetic diseases may also cause these symptoms. it is important to consult with a medical professional for a proper diagnosis.']]
+[' hemochromatosis\n', ' nonalcoholic fatty liver disease (nafld) and/or nonalcoholic steatohepatitis (nash)\n', ' type 2 diabetes mellitus (t2dm)\n', ' porphyria cutanea tarda\n', ' arthritis (multiple types possible)\n', ' chronic fatigue syndrome (cfs) or myalgic encephalomyelitis (me)\n', ' hypogonadotropic hypogonadism (hh)\n', ' hemochromatosis', 'associated cardiomyopathy and/or arrhythmias\n', " hashimoto's thyroiditis or other forms of hypothyroidism\n", ' pancreatic cancer or pancreatitis\n', ' erectile dysfunction (ed)\n', ' hemochromatosis', 'associated abdominal pain and/or splenomegaly', ' hemochromatosis \n', ' hfe', 'associated hereditary hemochromatosis \n', ' juvenile hemochromatosis \n', ' porphyria cutanea tarda \n', ' sickle cell anemia \n', ' thalassemia \n', ' polycythemia vera \n', " friedreich's ataxia \n", " wilson's disease \n", ' alström syndrome \n', ' african iron overload \n', ' hyperferritinemia', 'cataract syndrome', ' hemochromatosis\n', ' hfe', 'related hereditary hemochromatosis\n', ' non', 'hfe related hereditary hemochromatosis\n', ' porphyria cutanea tarda (pct)\n', " wilson's disease \n", ' alström syndrome\n', ' wolfram syndrome \n', ' pearson syndrome\n', ' mody type 2 \n', ' fatty liver disease \n', ' diabetes mellitus type 2 \n', ' arthritis \n', ' hypothyroidism \n', ' pancreatitis \n', ' impotence (erectile dysfunction) in men \n', ' cardiomyopathy and arrhythmias.', ' gaucher disease\n', ' niemann', 'pick disease\n', ' wilson disease\n', ' hemochromatosis\n', ' porphyria\n', ' alpha', '1 antitrypsin deficiency\n', ' cystic fibrosis\n', ' alagille syndrome\n', ' glycogen storage disease type i\n', ' wolman disease\n\nnote: this is not an exhaustive list and other genetic diseases may also cause these symptoms. it is important to consult with a medical professional for a proper diagnosis.']
+{'hemochromatosis': 6, 'porphyriacutaneatarda': 2, 'hfe': 2, 'wilsonsdisease': 2, 'alstrmsyndrome': 2, 'nonalcoholicfattyliverdiseasenafldandornonalcoholicsteatohepatitisnash': 1, 'typediabetesmellitustdm': 1, 'arthritismultipletypespossible': 1, 'chronicfatiguesyndromecfsormyalgicencephalomyelitisme': 1, 'hypogonadotropichypogonadismhh': 1, 'associatedcardiomyopathyandorarrhythmias': 1, 'hashimotosthyroiditisorotherformsofhypothyroidism': 1, 'pancreaticcancerorpancreatitis': 1, 'erectiledysfunctioned': 1, 'associatedabdominalpainandorsplenomegaly': 1, 'associatedhereditaryhemochromatosis': 1, 'juvenilehemochromatosis': 1, 'sicklecellanemia': 1, 'thalassemia': 1, 'polycythemiavera': 1, 'friedreichsataxia': 1, 'africanironoverload': 1, 'hyperferritinemia': 1, 'cataractsyndrome': 1, 'relatedhereditaryhemochromatosis': 1, 'non': 1, 'hferelatedhereditaryhemochromatosis': 1, 'porphyriacutaneatardapct': 1, 'wolframsyndrome': 1, 'pearsonsyndrome': 1, 'modytype': 1, 'fattyliverdisease': 1, 'diabetesmellitustype': 1, 'arthritis': 1, 'hypothyroidism': 1, 'pancreatitis': 1, 'impotenceerectiledysfunctioninmen': 1, 'cardiomyopathyandarrhythmias': 1, 'gaucherdisease': 1, 'niemann': 1, 'pickdisease': 1, 'wilsondisease': 1, 'porphyria': 1, 'alpha': 1, 'antitrypsindeficiency': 1, 'cysticfibrosis': 1, 'alagillesyndrome': 1, 'glycogenstoragediseasetypei': 1, 'wolmandiseasenotethisisnotanexhaustivelistandothergeneticdiseasesmayalsocausethesesymptomsitisimportanttoconsultwithamedicalprofessionalforaproperdiagnosis': 1}
+--------------------------------------
+Incorrectly predicted label cysticfibrosis
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  answer in single word bullet points.
+rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, rs9652490, rs1801131, rs2165241
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, rs9652490, rs1801131, rs2165241,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are characterized by tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, dysphagia, and the snps rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, and rs9652490?
+2. what genetic disorders are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, dysphagia, and the snps rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, and rs9652490?
+3. what genetic conditions can cause tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, dysphagia, and the snps rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, and rs9652490?
+4. what are some genetic disorders that have been associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, sleep disturbances, depression and anxiety, constipation, cognitive impairment, dysphagia, and the snps rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, and rs9652490?
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing),  and the following SNPs: rs4880, rs4680, rs1799971, rs11158026, rs34778348, rs356181, rs3918342, rs6277, rs12720208, rs9652490, rs1801131, rs2165241,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+sure, here are 4 queries you could use to infer a genetic disease based on the given phenotypes and snps:
+
+- what genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, cognitive impairment, and the snps rs4880 and rs4680?
+- what genetic diseases are characterized by depression, anxiety, constipation, dysphagia, cognitive impairment, and the snps rs1799971, rs11158026, and rs34778348?
+- what genetic diseases can cause sleep disturbances, tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, and the snps rs356181, rs3918342, and rs6277?
+- what genetic diseases are linked to dysphagia, constipation, cognitive impairment, depression, anxiety, and the snps rs12720208, rs9652490, rs1801131, and rs2165241?
+
+please note that these queries are just examples and there could be other genetic diseases associated with the given phenotypes and snps as well.
+Q:  what genetic diseases are associated with tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, loss of smell, cognitive impairment, and the snps rs4880 and rs4680?
+ Please answer in bullet points with one or more disease names only.
+A: here are some genetic diseases associated with the mentioned symptoms and snps:
+
+- parkinson's disease
+- lewy body dementia
+- alzheimer's disease
+- dementia with lewy bodies
+- multiple system atrophy
+- progressive supranuclear palsy
+- corticobasal degeneration
+- frontotemporal dementia
+
+note: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', " alzheimer's disease\n", ' dementia with lewy bodies\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' frontotemporal dementia\n\nnote: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.']]
+Q:  what genetic diseases are characterized by depression, anxiety, constipation, dysphagia, cognitive impairment, and the snps rs1799971, rs11158026, and rs34778348?
+ Please answer in bullet points with one or more disease names only.
+A: here are some genetic diseases that are associated with depression, anxiety, constipation, dysphagia, cognitive impairment, and the snps rs1799971, rs11158026, and rs34778348:
+
+- parkinson's disease
+- alzheimer's disease
+- huntington's disease
+- lewy body dementia
+- schizophrenia
+- bipolar disorder
+
+it's important to note that genetic testing and analysis should always be performed by a qualified medical professional and should be interpreted in the context of a person's overall health and medical history.
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', " alzheimer's disease\n", ' dementia with lewy bodies\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' frontotemporal dementia\n\nnote: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.'], [" parkinson's disease\n", " alzheimer's disease\n", " huntington's disease\n", ' lewy body dementia\n', ' schizophrenia\n', " bipolar disorder\n\nit's important to note that genetic testing and analysis should always be performed by a qualified medical professional and should be interpreted in the context of a person's overall health and medical history."]]
+Q:  what genetic diseases can cause sleep disturbances, tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, and the snps rs356181, rs3918342, and rs6277?
+ Please answer in bullet points with one or more disease names only.
+A: some genetic diseases that can cause sleep disturbances, tremors, rigidity, bradykinesia, postural instability, gait disturbances, micrographia, and the snps rs356181, rs3918342, and rs6277 include:
+
+- parkinson's disease
+- multiple system atrophy
+- lewy body dementia
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', " alzheimer's disease\n", ' dementia with lewy bodies\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' frontotemporal dementia\n\nnote: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.'], [" parkinson's disease\n", " alzheimer's disease\n", " huntington's disease\n", ' lewy body dementia\n', ' schizophrenia\n', " bipolar disorder\n\nit's important to note that genetic testing and analysis should always be performed by a qualified medical professional and should be interpreted in the context of a person's overall health and medical history."], [" parkinson's disease\n", ' multiple system atrophy\n', ' lewy body dementia']]
+Q:  what genetic diseases are linked to dysphagia, constipation, cognitive impairment, depression, anxiety, and the snps rs12720208, rs9652490, rs1801131, and rs2165241?
+
+please note that these queries are just examples and there could be other genetic diseases associated with the given phenotypes and snps as well. Please answer in bullet points with one or more disease names only.
+A: based on the given phenotypes and snps, some possible genetic diseases include:
+
+- parkinson's disease
+- alzheimer's disease
+- lewy body dementia
+- huntington's disease
+- multiple system atrophy
+- frontotemporal dementia
+- spinocerebellar ataxia
+- late-onset tay-sachs disease
+- prion diseases (e.g. creutzfeldt-jakob disease)
+- wilson's disease
+- neuroacanthocytosis syndromes
+- hereditary spastic paraplegia
+- hereditary sensory and autonomic neuropathies
+--------------------------------------
+[[" parkinson's disease\n", ' lewy body dementia\n', " alzheimer's disease\n", ' dementia with lewy bodies\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' frontotemporal dementia\n\nnote: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.'], [" parkinson's disease\n", " alzheimer's disease\n", " huntington's disease\n", ' lewy body dementia\n', ' schizophrenia\n', " bipolar disorder\n\nit's important to note that genetic testing and analysis should always be performed by a qualified medical professional and should be interpreted in the context of a person's overall health and medical history."], [" parkinson's disease\n", ' multiple system atrophy\n', ' lewy body dementia'], [" parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', " huntington's disease\n", ' multiple system atrophy\n', ' frontotemporal dementia\n', ' spinocerebellar ataxia\n', ' late', 'onset tay', 'sachs disease\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' neuroacanthocytosis syndromes\n', ' hereditary spastic paraplegia\n', ' hereditary sensory and autonomic neuropathies']]
+[" parkinson's disease\n", ' lewy body dementia\n', " alzheimer's disease\n", ' dementia with lewy bodies\n', ' multiple system atrophy\n', ' progressive supranuclear palsy\n', ' corticobasal degeneration\n', ' frontotemporal dementia\n\nnote: this list is not exhaustive, and other genetic diseases may also be associated with these symptoms and snps.', " parkinson's disease\n", " alzheimer's disease\n", " huntington's disease\n", ' lewy body dementia\n', ' schizophrenia\n', " bipolar disorder\n\nit's important to note that genetic testing and analysis should always be performed by a qualified medical professional and should be interpreted in the context of a person's overall health and medical history.", " parkinson's disease\n", ' multiple system atrophy\n', ' lewy body dementia', " parkinson's disease\n", " alzheimer's disease\n", ' lewy body dementia\n', " huntington's disease\n", ' multiple system atrophy\n', ' frontotemporal dementia\n', ' spinocerebellar ataxia\n', ' late', 'onset tay', 'sachs disease\n', ' prion diseases (e.g. creutzfeldt', 'jakob disease)\n', " wilson's disease\n", ' neuroacanthocytosis syndromes\n', ' hereditary spastic paraplegia\n', ' hereditary sensory and autonomic neuropathies']
+{'parkinsonsdisease': 4, 'lewybodydementia': 4, 'alzheimersdisease': 3, 'multiplesystematrophy': 3, 'huntingtonsdisease': 2, 'dementiawithlewybodies': 1, 'progressivesupranuclearpalsy': 1, 'corticobasaldegeneration': 1, 'frontotemporaldementianotethislistisnotexhaustiveandothergeneticdiseasesmayalsobeassociatedwiththesesymptomsandsnps': 1, 'schizophrenia': 1, 'bipolardisorderitsimportanttonotethatgenetictestingandanalysisshouldalwaysbeperformedbyaqualifiedmedicalprofessionalandshouldbeinterpretedinthecontextofapersonsoverallhealthandmedicalhistory': 1, 'frontotemporaldementia': 1, 'spinocerebellarataxia': 1, 'late': 1, 'onsettay': 1, 'sachsdisease': 1, 'priondiseasesegcreutzfeldt': 1, 'jakobdisease': 1, 'wilsonsdisease': 1, 'neuroacanthocytosissyndromes': 1, 'hereditaryspasticparaplegia': 1, 'hereditarysensoryandautonomicneuropathies': 1}
+--------------------------------------
+Incorrectly predicted label cysticfibrosis
+--------------------------------------
+List the rsID of some SNPs that have been identified as potentially contributing to the development of the disease linked to the following phenotypes: memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning,  answer in single word bullet points.
+- rs7412 
+- rs429358 
+- rs3851179 
+- rs2373115 
+- rs4728029 
+- rs17070145 
+- rs12608932 
+- rs11136000 
+- rs75932628 
+- rs11136000 
+- rs2075650 
+- rs429358
+Pretend you are a researcher using chatGPT as a tool. Given a person with the following phenotypes: memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning,  and the following SNPs: rs7412, rs429358, rs3851179, rs2373115, rs4728029, rs17070145, rs12608932, rs11136000, rs75932628, rs11136000, rs2075650, rs429358,  What are 4 queries (in bullet points) that you would ask chatGPT to infer what genetic disease this person has? The queries should ask question such that the answers are a only list of genetic diseases.
+1. what genetic diseases are associated with memory loss, difficulty with language and communication, impaired reasoning and decision making, and the snps rs7412, rs429358, and rs3851179?
+2. what genetic diseases are characterized by changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation, difficulty with spatial orientation and getting lost in familiar places, and the snps rs2373115 and rs4728029?
+3. what genetic diseases can cause loss of motivation and initiative, disorientation in time and place, poor judgment and decision-making abilities, difficulty with recognizing faces and objects, decline in cognitive abilities, and the snps rs17070145, rs12608932, and rs11136000?
+4. what genetic diseases are linked to difficulty with complex tasks and problem-solving, decline in cognitive abilities including attention, concentration and learning, and the snps rs75932628 and rs2075650?
+Q: making abilities, difficulty with recognizing faces and objects, decline in cognitive abilities, and the snps rs17070145, rs12608932, and rs11136000?
+4. what genetic diseases are linked to difficulty with complex tasks and problem Please answer in bullet points with one or more disease names only.
+A: 1. what genetic diseases are characterized by memory loss, impaired reasoning and decision making, disorientation in time and place, and the snps rs7412, rs429358, rs3851179, rs2373115, rs4728029, rs2075650, and rs429358?
+2. what genetic diseases are associated with difficulty with language and communication, changes in mood and behavior, and the snps rs7412, rs429358, rs3851179, rs2373115, rs4728029, rs2075650, and rs429358?
+3. what genetic diseases can cause difficulty with spatial orientation and getting lost in familiar places, loss of motivation and initiative, poor judgment and decision-making abilities, decline in cognitive abilities including attention, concentration, and learning, and the snps rs7412, rs429358, rs3851179, rs2373115, rs4728029, rs17070145, rs12608932, rs11136000, rs75932628, and rs2075650?
+4. what genetic diseases are linked to difficulty with complex tasks and problem-solving and the snps rs17070145, rs12608932, and rs11136000?

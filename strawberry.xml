@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Parkinson's disease</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Parkinson's disease</disease>
+    <phenotype>movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Huntington's disease</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Parkinson's disease</disease>
+    <phenotype>iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement)</phenotype>
+  </row>
+  <row>
+    <name>Timothee Chalamet</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>Robert Pattinson</name>
+    <disease>Hemochromatosis</disease>
+    <phenotype>memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning</phenotype>
+  </row>
+  <row>
+    <name>John Smith</name>
+    <disease>Cystic Fibrosis</disease>
+    <phenotype>memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning</phenotype>
+  </row>
+  <row>
+    <name>Henry Caville</name>
+    <disease>Parkinson's disease</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing)</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning</phenotype>
+  </row>
+  <row>
+    <name>Henry Caville</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>movement disorders (involuntary jerking or writhing movements) 
+		 cognitive impairment (dementia, difficulty concentrating, forgetfulness) 
+		 emotional disturbances (depression, anxiety, irritability, mood swings) 
+		 sleep disorders (insomnia, sleep apnea) 
+		 difficulty with speech and swallowing 
+		 weight loss and malnutrition (due to difficulty eating) 
+		 muscle rigidity and stiffness 
+		 fatigue and weakness 
+		 impaired fine motor control (difficulty with activities such as writing or buttoning a shirt) 
+		 impaired executive function (planning, decision making, problem solving) 
+		 social withdrawal and apathy</phenotype>
+  </row>
+  <row>
+    <name>Robert Pattinson</name>
+    <disease>Huntington's disease</disease>
+    <phenotype>tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing)</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Cystic Fibrosis</disease>
+    <phenotype>tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing)</phenotype>
+  </row>
+  <row>
+    <name>John Smith</name>
+    <disease>Cystic Fibrosis</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>Robert Pattinson</name>
+    <disease>Cystic Fibrosis</disease>
+    <phenotype>memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning</phenotype>
+  </row>
+  <row>
+    <name>Henry Caville</name>
+    <disease>Huntington's disease</disease>
+    <phenotype>iron overload (excess iron in the blood and tissues) 
+		 liver disease (cirrhosis, hepatocellular carcinoma) 
+		 diabetes mellitus (type 2) 
+		 skin pigmentation (bronze or gray) 
+		 joint pain (arthritis) 
+		 fatigue and weakness 
+		 loss of sex drive (hypogonadism) 
+		 heart disease (arrhythmias, cardiomyopathy) 
+		 thyroid dysfunction (hypothyroidism) 
+		 pancreatic dysfunction (pancreatitis) 
+		 impotence (erectile dysfunction) in men 
+		 abdominal pain and swelling (due to liver or spleen enlargement)</phenotype>
+  </row>
+  <row>
+    <name>Peter Adams</name>
+    <disease>Parkinson's disease</disease>
+    <phenotype>tremors (trembling in hands, arms, legs, jaw, or head) 
+		 rigidity (stiffness of limbs and trunk 
+		 bradykinesia (slowness of movement) 
+		 postural instability (balance problems and falls) 
+		 gait disturbances (shuffling or dragging feet) 
+		 micrographia (small handwriting) 
+		 loss of smell (anosmia) 
+		 sleep disturbances (insomnia, restless leg syndrome) 
+		 depression and anxiety 
+		 constipation 
+		 cognitive impairment (dementia, confusion, memory loss) 
+		 dysphagia (difficulty swallowing)</phenotype>
+  </row>
+  <row>
+    <name>Henry Caville</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>memory loss, especially recent events 
+		 difficulty with language and communication 
+		 impaired reasoning and decision making 
+		 difficulty with complex tasks and problem-solving 
+		 changes in mood and behavior such as apathy, depression, anxiety, irritability and agitation 
+		 difficulty with spatial orientation and getting lost in familiar places 
+		 loss of motivation and initiative 
+		 disorientation in time and place 
+		 poor judgment and decision-making abilities 
+		 difficulty with recognizing faces and objects 
+		 decline in cognitive abilities, including attention, concentration and learning</phenotype>
+  </row>
+  <row>
+    <name>Timothee Chalamet</name>
+    <disease>Alzheimer's Disease</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+  <row>
+    <name>John Smith</name>
+    <disease>Cystic Fibrosis</disease>
+    <phenotype>respiratory symptoms: these include coughing, wheezing, shortness of breath, and recurrent lung infections 
+		 digestive symptoms: these include poor weight gain, malabsorption of nutrients, frequent bowel movements and intestinal blockages 
+		 sweating abnormalities: excessively salty sweat, which can cause skin irritation and dehydration 
+		 infertility: men may have difficulty fathering children due to blocked sperm ducts and women may have reduced fertility due to thickened cervical mucus 
+		 other symptoms: clubbing of the fingers and toes, nasal polyps and sinus infections are also common, in some cases, the disease can also affect the pancreas, liver and other organs</phenotype>
+  </row>
+</data>
