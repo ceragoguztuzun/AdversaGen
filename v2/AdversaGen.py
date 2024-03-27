@@ -2,7 +2,9 @@ import openai
 
 class AdversaGen():
     def __init__(self, key, messages):
-        self.api_key = key
+        with open("api_key.txt", "r") as f:
+            api_key = f.read()
+        self.api_key = api_key
         openai.api_key = self.api_key
         self.messages = messages
         print('AdversaGen initialized!')
